@@ -1,0 +1,1667 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>speaking.io</title>
+ <link href="http://speaking.io/atom.xml" rel="self"/>
+ <link href="http://speaking.io/"/>
+ <updated>2014-02-10T11:22:52-08:00</updated>
+ <id>http://speaking.io</id>
+ <author>
+   <name>speaking.io</name>
+ </author>
+
+ 
+ <entry>
+   <title>Using Images</title>
+   <link href="http://speaking.io/design/using-images"/>
+   <updated>2014-02-10T00:00:00-08:00</updated>
+   <id>http://speaking.io/design/using-images</id>
+   <content type="html">&lt;p&gt;Hey which likeness of Winston Churchill inspires you to weather out a bombing
+run more? This one:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cl.ly/image/1W2V2O411i2Q/content&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;hellip;or this one:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;  o   - HEY IM WINSTON CHURTCHIL
+ /|\
+ / \
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;If I had to guess, you either picked the first one, because it is a vibrant
+image full of evocative character and unbroken will, or you picked the second
+one because you are a jerk and just wanted to mess up my example.&lt;/p&gt;
+
+&lt;p&gt;What I&amp;rsquo;m trying to say is that even more than plain text, images can really make
+things pop for your audience (unless they&amp;rsquo;re all jerks).&lt;/p&gt;
+
+&lt;h2&gt;Finding a photo&lt;/h2&gt;
+
+&lt;p&gt;I really like photos. It&amp;rsquo;s hard to describe why I like them so much, but I came
+up with a phrase that sums it up pretty well: a picture is worth a hundred
+million words. Photos can capture attention and interest quickly and without
+much effort, so you might want to include them in your slide deck.&lt;/p&gt;
+
+&lt;p&gt;If I&amp;rsquo;m designing something that needs a good photo, more often than not I&amp;rsquo;ll
+toss one of &lt;a href=&quot;http://photos.zachholman.com&quot;&gt;my photos&lt;/a&gt; in the slide. It can be
+fun to chat with people about certain photos they might notice in the deck and
+be able to say &amp;ldquo;yeah, I took that&amp;rdquo;. If you&amp;rsquo;re at all into photography, give that
+a shot. You&amp;rsquo;d be surprised at how good even cell phone photos can look these
+days.&lt;/p&gt;
+
+&lt;p&gt;If you&amp;rsquo;re not a photog by any stretch of the imagination, there are plenty of
+places you can find royalty-free photos online. Flickr has a great &lt;a href=&quot;http://www.flickr.com/creativecommons/&quot;&gt;Creative
+Commons&lt;/a&gt; search, and even Google Images&#39;
+&lt;a href=&quot;https://www.google.com/advanced_image_search?as_st=y&amp;amp;hl=en&amp;amp;as_epq=&amp;amp;as_oq=&amp;amp;as_eq=&amp;amp;cr=&amp;amp;as_sitesearch=&amp;amp;safe=images&amp;amp;q=arby&#39;s+roast+beef+sandwich&amp;amp;tbs=sur:f&amp;amp;tbm=isch&quot;&gt;advanced search&lt;/a&gt;
+has a nice &amp;ldquo;usage rights&amp;rdquo; section you can filter by.&lt;/p&gt;
+
+&lt;h2&gt;Using a photo&lt;/h2&gt;
+
+&lt;p&gt;Once you have a (preferably big, high-quality) photo, toss it in your slide
+deck. But for the love of god, don&amp;rsquo;t do this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cl.ly/image/0A1g3s0C450E/content&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Again, keep things as simple and as &lt;em&gt;big as possible&lt;/em&gt;. Blow it up to the whole
+slide:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cl.ly/image/0C0n2x0N3009/content&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2&gt;Dealing with text&lt;/h2&gt;
+
+&lt;p&gt;In that last screenshot, I used a couple quick tricks to make the text more
+legible.&lt;/p&gt;
+
+&lt;h3&gt;Play with levels&lt;/h3&gt;
+
+&lt;p&gt;For one, I turned the exposure down. You can do this either in a different
+program or, in this example I just did it directly in Keynote:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cl.ly/image/2T060O0F0y3c/content&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Basically, it makes the whole photo darker. It might make the photo as a whole a
+little harder to make out, but your focus is on the legibility of your slide
+deck, not photorealistic renderings of some random photo you have up on screen
+for four seconds.&lt;/p&gt;
+
+&lt;h3&gt;Put another backdrop under the text&lt;/h3&gt;
+
+&lt;p&gt;Usually playing with the levels of the photo is fine, but in the Churchill shot
+I had a harder time placing the brighter pink text over a lighter grey
+background. So, I cheated. I added a black rectangle behind the text:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cl.ly/image/3y1n1M1d450r/content&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s not a full black; it&amp;rsquo;s at about 70% opacity, so some of the background
+bleeds through, which I think is a nice enough effect. I just wanted that
+slightly darker so the text would pop more.&lt;/p&gt;
+
+&lt;p&gt;You can use drop shadows for the same type of effect as well: just make them
+offset by 0px and don&amp;rsquo;t blur the shadows too much, otherwise you start to lose
+the effect some.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Finding Where to Talk</title>
+   <link href="http://speaking.io/plan/finding-a-talk"/>
+   <updated>2014-02-10T00:00:00-08:00</updated>
+   <id>http://speaking.io/plan/finding-a-talk</id>
+   <content type="html">&lt;p&gt;In today&amp;rsquo;s society, you can&amp;rsquo;t &lt;em&gt;just give a talk&lt;/em&gt;. By that I mean you can&amp;rsquo;t just
+stand up on your bus ride into work and start blabbing about whatever you want
+to talk about. By that I mean you will probably get arrested, because you will
+Stick Out, and society doesn&amp;rsquo;t like People That Stick Out.&lt;/p&gt;
+
+&lt;p&gt;Instead, try knocking out the bus driver, stealing the bus, and driving it to a
+secluded section of the woods. Then it becomes a private gathering and it is
+okay to talk to the passengers at great lengths because you have stolen their
+only means of transportation away from them.&lt;/p&gt;
+
+&lt;p&gt;Barring your desire to acquire another felony on your record, you might want to
+try another couple of options.&lt;/p&gt;
+
+&lt;h2&gt;Finding a meetup&lt;/h2&gt;
+
+&lt;p&gt;Never spoken before? If you&amp;rsquo;re in the tech industry, you might want to try your
+local meetup groups. This is great for a few reasons:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Smaller&lt;/em&gt;. Compared to a conference, meetups are typically much smaller and
+shorter in duration. Might ease your nerves a bit.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Friendlier&lt;/em&gt;. It&amp;rsquo;s your local community! They&amp;rsquo;re probably not jerks, otherwise
+they wouldn&amp;rsquo;t be living in your nice cozy town! Meetups are usually nice places to get your toes wet.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;http://www.meetup.com&quot;&gt;Meetup.com&lt;/a&gt; is probably your best bet in finding meetup
+groups in your area. At some point, try talking to the organizer and offering to
+share your knowledge. (You might want to go for a few months first so you can
+meet people and get to know the meetup group. Strangers are just friends you
+haven&amp;rsquo;t met yet!)&lt;/p&gt;
+
+&lt;h2&gt;Finding a conference&lt;/h2&gt;
+
+&lt;p&gt;Conferences are a lot of fun, particularly if they&amp;rsquo;re in distant, romantic
+cities (or Detroit).&lt;/p&gt;
+
+&lt;p&gt;Not sure which conference you&amp;rsquo;re interested in? Check out
+&lt;a href=&quot;http://lanyrd.com&quot;&gt;Lanyrd&lt;/a&gt; — it&amp;rsquo;s got the best assortment of conferences out
+there. Once you find an upcoming conference that you&amp;rsquo;re interested in, you&amp;rsquo;ll
+probably want to &lt;a href=&quot;http://speaking.io/plan/writing-a-cfp/&quot;&gt;fill out a CFP (Call for Papers)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Didn&amp;rsquo;t get accepted at the conference of your choice? That&amp;rsquo;s great, because many
+conferences will do &lt;em&gt;lightning talks&lt;/em&gt;, which are short five-minute hard-limit
+talks by anyone in the audience. Giving a lightning talk is a &lt;em&gt;fantastic&lt;/em&gt; way to
+get started with public speaking. Even if you freeze up and the whole thing is a
+disaster, it&amp;rsquo;s only five minutes long and people are sort of expecting failure
+anyway (most lightning talks are conceived, created, and delivered the same
+day).&lt;/p&gt;
+
+&lt;h2&gt;Other resources&lt;/h2&gt;
+
+&lt;p&gt;There are a lot of interesting opportunities out there beyond just conferences
+and meetups, too. Here&amp;rsquo;s a few good resources that&amp;rsquo;ll help you get started:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;For women in tech: &lt;a href=&quot;https://twitter.com/callbackwomen&quot;&gt;@callbackwomen&lt;/a&gt;&lt;/strong&gt;. A
+slew of tweets from programming conferences looking for women (and everyone!)
+to talk at their event.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;For everybody: &lt;a href=&quot;http://lanyrd.com/calls/&quot;&gt;Lanyrd&amp;rsquo;s CFP section&lt;/a&gt;&lt;/strong&gt;. Probably
+the most definitive list you&amp;rsquo;ll see.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;(If you know any more, please &lt;a href=&quot;mailto:&amp;#122;&amp;#97;&amp;#99;&amp;#104;&amp;#64;&amp;#122;&amp;#97;&amp;#99;&amp;#104;&amp;#104;&amp;#111;&amp;#108;&amp;#109;&amp;#97;&amp;#110;&amp;#46;&amp;#99;&amp;#111;&amp;#109;&quot;&gt;shoot me an email&lt;/a&gt;
+and I&amp;rsquo;d love to get it listed here.)&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Duplicating Objects</title>
+   <link href="http://speaking.io/design/duplicating-objects"/>
+   <updated>2014-02-10T00:00:00-08:00</updated>
+   <id>http://speaking.io/design/duplicating-objects</id>
+   <content type="html">&lt;p&gt;Have you ever seen &lt;em&gt;The Fly&lt;/em&gt; starring Jeff Goldblum?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cl.ly/image/281S1y063g2p/goldblum.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Basically Goldblum — the kooky mad scientist he is — invents a teleportation
+device, but when he tries it on himself, a housefly sneaks into the machine with
+him and Goldblum comes out the other end half-fly, half-Goldblum. Definitely
+should have won a Grammy, but the point I&amp;rsquo;m trying to make here is that Goldblum
+probably would have been better off duplicating himself instead of mixing his
+DNA up with some lameazoid insect. Had that happened, we would have had ended up
+with &lt;em&gt;two&lt;/em&gt; Jeff Goldblums and the world would have been noticeably better off.&lt;/p&gt;
+
+&lt;h2&gt;Quickly building things up&lt;/h2&gt;
+
+&lt;p&gt;In Keynote, I use &lt;code&gt;⌘D&lt;/code&gt; religiously. That&amp;rsquo;ll duplicate whatever you have
+selected: slides, objects, text, groups of slides, groups of groups of text,
+small rodents, whatever.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s kind of amazing how much time this saves me. I feel weird writing about it
+because there&amp;rsquo;s nothing special about it: I&amp;rsquo;m just duplicating shit. But when
+you&amp;rsquo;re dealing with text styles and specific font settings and colors, it makes
+a ton more sense to just grab what you need and bring it over to a new slide.&lt;/p&gt;
+
+&lt;h2&gt;The scratchpad slide&lt;/h2&gt;
+
+&lt;p&gt;One way I leverage duping quickly is to build a scratchpad slide at the start of
+my slide deck. It has big chunks of things I might use later in the deck. Here&amp;rsquo;s
+a quick example of one:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cl.ly/image/241G3C3o0L3G/content&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Delete this slide before you give your talk, of course. It&amp;rsquo;s just there for you
+quickly copy styles back and forth between slides.&lt;/p&gt;
+
+&lt;p&gt;You can also use Master Slides for purpose- basically you set up one overall
+style in your Master Slide and you can change all the rest of them from that one
+spot. Personally I tend to make each slide a bit unique, so I don&amp;rsquo;t use Master
+Slides all too often.&lt;/p&gt;
+
+&lt;h2&gt;Advanced: The no-shift&lt;/h2&gt;
+
+&lt;p&gt;I&amp;rsquo;m pretty sure I&amp;rsquo;m the only one who notices this in the entire planet, but it&amp;rsquo;s
+something virtually everyone messes up. Fixing it makes for a more pleasant
+slide deck overall, so this might be interesting to you.&lt;/p&gt;
+
+&lt;p&gt;Imagine you have this slide:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cl.ly/image/1C2133113o2D/content&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And then you build this slide:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cl.ly/image/0g2j3p3l3K2Y/content&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Does that bother you much? Probably not, because we&amp;rsquo;re building the slide deck
+and we don&amp;rsquo;t think about things like flow while we&amp;rsquo;re building it. But let&amp;rsquo;s
+take a look at it as your audience will see it, one slide transitioning to the
+next:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cl.ly/image/022u2X3f3h0A/content&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;See? Much easier to notice the text jumping around (and even the background
+image gets offset a few pixels). Compare that to objects that have been properly
+duplicated-in-place:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cl.ly/image/2f2s2J2p1S2b/content&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s super subtle and maybe no one will notice it, but I think it&amp;rsquo;s a nice way
+to polish your presentation.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Your Voice</title>
+   <link href="http://speaking.io/deliver/your-voice"/>
+   <updated>2014-01-14T00:00:00-08:00</updated>
+   <id>http://speaking.io/deliver/your-voice</id>
+   <content type="html">&lt;p&gt;You can tell a lot about a speaker by how she sounds. Is her voice wobbly?
+Confident? Is she speaking too quickly? Is it one monotone delivery?&lt;/p&gt;
+
+&lt;p&gt;This actually matters quite a bit. It&amp;rsquo;s also one of the hardest things to
+change, but improving &lt;em&gt;how&lt;/em&gt; you talk is going to be one of the best things you
+can do to improve your overall public speaking.&lt;/p&gt;
+
+&lt;h2&gt;Variation&lt;/h2&gt;
+
+&lt;p&gt;One of the things the best speakers can do well is &lt;em&gt;variance of voice&lt;/em&gt;. This
+encompasses a slew of different aspects:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Pace&lt;/strong&gt;. How fast are you speaking? By speeding up, you capture audience
+attention by creating an air of excitement, of buildup. Alternatively, by
+slowing down, you can assign more weight to each individual word. That&amp;rsquo;s
+helpful when you&amp;rsquo;re making big, important points in your argument.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pitch&lt;/strong&gt;. Is your voice low or high? Variation is helpful here, particularly
+in order to get an exaggerated effect (think of how you&amp;rsquo;d say &lt;em&gt;I paid FIVE
+HUNDRED DOLLARS for that dinner?&lt;/em&gt;, for example).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Volume&lt;/strong&gt;. Be loud, gain their attention. Be more quiet&amp;hellip; and you can still
+gain their attention.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;The point is to vary your voice when you can. You get people much more
+interested in what you have to say. There&amp;rsquo;s nothing worse than having a Ben
+Stein voice up on stage really early in the morning, lecturing you to sleep.&lt;/p&gt;
+
+&lt;h2&gt;Pauses&lt;/h2&gt;
+
+&lt;p&gt;When asked a question, Steve Jobs would frequently pause to consider the
+question before answering it. As a speaker, this is one of the most frightening
+things you can do: by &lt;em&gt;not talking&lt;/em&gt;, you&amp;rsquo;re immediately conscious of the fact
+that &lt;em&gt;no one else is talking and everyone is waiting for what you have to say&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s completely petrifying, but it&amp;rsquo;s also incredibly effective. It makes the
+audience feel like you&amp;rsquo;re really thinking something through. It&amp;rsquo;s a sign of
+respect.&lt;/p&gt;
+
+&lt;p&gt;This works outside of the Q&amp;amp;A session, too: your presentation will benefit from
+pauses and breaks. Nothing makes me look up from my laptop screen more than the
+absense of the speaker talking. I think it&amp;rsquo;s the anticipation that does humans
+in, actually: with nothing happening, humans just can&amp;rsquo;t wait until something
+&lt;em&gt;does&lt;/em&gt; happen.&lt;/p&gt;
+
+&lt;p&gt;Before moving onto your next big section of your talk, take a three or five
+second break. If this is uncomfortable for you — and trust me, that&amp;rsquo;s a totally
+normal feeling — cheat. You can cheat by taking a sip of water. It&amp;rsquo;s the best
+break in the world, and you still gain all of the benefits of taking a break
+without all of the awkwardness on your end.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Writing the CFP</title>
+   <link href="http://speaking.io/plan/writing-a-cfp"/>
+   <updated>2014-01-14T00:00:00-08:00</updated>
+   <id>http://speaking.io/plan/writing-a-cfp</id>
+   <content type="html">&lt;p&gt;A lot of conferences will require you to submit a Call For Papers, or CFP, which
+means you&amp;rsquo;re going to have to take this half-baked idea you have and add a bunch
+of words to it even though the conference probably won&amp;rsquo;t happen until six months
+from now and how the hell are you supposed to finalize this already do you know
+how much can change in six months I could be dead did you think about that,
+conference? I could be dead, dammit.&lt;/p&gt;
+
+&lt;p&gt;Luckily the conference will probably happen whether you are alive or not, so
+it&amp;rsquo;s best to play by their rules and submit them a Paper, whatever that means.&lt;/p&gt;
+
+&lt;h2&gt;What is a CFP?&lt;/h2&gt;
+
+&lt;p&gt;This goes back to academia, where people had Important Academic Papers to
+disseminate amongst the intelligentsia. Compare that to your slides, which
+probably have an actual picture of poop in them. We&amp;rsquo;re clearly in over our heads
+already.&lt;/p&gt;
+
+&lt;p&gt;But like the good lord says, fake it until you make it, so take a step and see
+what the CFP entails. Usually it&amp;rsquo;s just a paragraph or two for your talk
+abstract, a paragraph or two directly to the conference organizers, and then
+maybe special things like your Social Media Network Handle so that they can be
+sure the conference has lots of Social Media in it.&lt;/p&gt;
+
+&lt;h2&gt;Writing the abstract&lt;/h2&gt;
+
+&lt;p&gt;The important thing about writing the CFP talk abstract is that this will
+probably be what they put in the conference program about your talk. So that
+puts you in the particularly strange situation where if you change your talk in
+the subsequent few months, you might still have a really inaccurate talk
+description.&lt;/p&gt;
+
+&lt;p&gt;Two things: keep it abstract, and keep it interesting. I use the &lt;em&gt;abstract&lt;/em&gt; part
+of &lt;em&gt;talk abstract&lt;/em&gt; literally: I try not to include too many specific details to
+give me some leeway to let the talk take me where it wants to go later when I
+build it. You can&amp;rsquo;t be too amorphous to the extent where you&amp;rsquo;re not saying
+anything, otherwise the organizers won&amp;rsquo;t pick it, but you can talk in more
+broader themes than you would otherwise.&lt;/p&gt;
+
+&lt;p&gt;Also, keep it interesting. As I said, this will probably be in the talk program,
+and if the conference you&amp;rsquo;re presenting at has multiple tracks, you&amp;rsquo;ll want to
+write something interesting enough to pull people in and choose your talk.&lt;/p&gt;
+
+&lt;h2&gt;Writing the note to organizers&lt;/h2&gt;
+
+&lt;p&gt;Some CFPs will let you include a quick, private note to the conference
+organizers. You can put anything you want in here, but be brief (organizers are
+busy, busy people), and it might be a good idea to talk more honestly about why
+you think giving this talk is really important to conference attendees. That&amp;rsquo;s
+really the kicker (and it should show through in your abstract as well). People
+want to be moved by interesting, new perspectives, even if they don&amp;rsquo;t
+necessarily agree with them at the onset. Differentiate yourself, include some
+humor, and you&amp;rsquo;ll fare well.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>What They Don't Tell You</title>
+   <link href="http://speaking.io/deliver/what-they-dont-tell-you-about-public-speaking"/>
+   <updated>2014-01-14T00:00:00-08:00</updated>
+   <id>http://speaking.io/deliver/what-they-dont-tell-you-about-public-speaking</id>
+   <content type="html">&lt;p&gt;Looking back on a year of speaking at conferences, I&amp;rsquo;m rather flabbergasted that
+I managed to make it without my pants falling off mid-sentence or my laptop
+exploding in a fireball of self-doubt and international power cords.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;d read all the blog posts and heard all of the advice: slow down, speak
+loudly, tell a story. But goddamn, no one told me I&amp;rsquo;d have to put my laptop down
+on the ground twenty feet away behind a couch because that&amp;rsquo;s the only place the
+projector&amp;rsquo;s VGA cable would reach.&lt;/p&gt;
+
+&lt;p&gt;Turns out there&amp;rsquo;s all this other stuff to worry about, too!&lt;/p&gt;
+
+&lt;h2&gt;The room isn&amp;rsquo;t your audience&lt;/h2&gt;
+
+&lt;p&gt;When you&amp;rsquo;re on stage in front of a few hundred people, your brain is screaming
+at you &lt;strong&gt;DON&amp;rsquo;T SCREW UP IN FRONT OF ALL THESE PEOPLE&lt;/strong&gt;. But these people aren&amp;rsquo;t
+your main audience.&lt;/p&gt;
+
+&lt;p&gt;Run the numbers: most technology talks are in front of 50-300 people. That&amp;rsquo;s
+your most important audience; after all, they came to listen to &lt;em&gt;you&lt;/em&gt;. But if
+you post your talk online afterwards, you could reach thousands more. It&amp;rsquo;s a
+different audience. You can choose to ignore this audience completely, or you
+can choose to embrace them.&lt;/p&gt;
+
+&lt;p&gt;Most conferences are a crap shoot when it comes to video. Half the time they
+won&amp;rsquo;t record your talk, and the other half of the time it may take months before
+your talk is published.&lt;/p&gt;
+
+&lt;p&gt;Something I&amp;rsquo;ve been &lt;a href=&quot;http://zachholman.com/talk/git-github-secrets&quot;&gt;doing&lt;/a&gt;
+&lt;a href=&quot;http://zachholman.com/posts/how-github-works/&quot;&gt;recently&lt;/a&gt; is making a screen
+recording of my talks using QuickTime on my Mac. It&amp;rsquo;ll record both my voice and
+my slides as I flip through them. It&amp;rsquo;s a much better experience than just
+posting contextless slides.&lt;/p&gt;
+
+&lt;h2&gt;Last-minute prep&lt;/h2&gt;
+
+&lt;p&gt;There are a number of things you&amp;rsquo;ll want to take care of before jumping into
+your talk:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Silence your phone&lt;/strong&gt;. That means airplane mode or non-vibrate mode. You&amp;rsquo;ll
+(hopefully) be getting tweets or emails mentioning you during your talk; trust
+me, feeling your pants vibrate will wreck your concentration.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Crank up your screen brightness&lt;/strong&gt;. You don&amp;rsquo;t want to be fighting to read
+your notes. You should be plugged in, anyway, so don&amp;rsquo;t worry about draining your
+battery.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Rearrange your presenter display&lt;/strong&gt;. Rather than just mirror your slides, you
+should be using a separate presenter display that shows your slide, your next
+slide, a timer, your notes, and anything else you&amp;rsquo;d like to have up on-screen.
+If you use Keynote, you can &lt;a href=&quot;http://www.apple.com/findouthow/iwork/#keynote09-customizepresenter&quot;&gt;customize this screen&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Ground your talk in reality&lt;/h2&gt;
+
+&lt;p&gt;I&amp;rsquo;ve done one or two talks that I thought were great ideas initially: projects
+that weren&amp;rsquo;t finished yet, things that I thought would be interesting to talk
+about, and so on. They&amp;rsquo;re talks I regret. Talks should always be &lt;em&gt;reactionary&lt;/em&gt;
+rather than &lt;em&gt;anticipatory&lt;/em&gt;: they&amp;rsquo;re going to come off as more natural, more
+interesting, and above all, more valuable.&lt;/p&gt;
+
+&lt;p&gt;Think about writing a detailed blog post before you speak on any subject. That
+way you&amp;rsquo;ll know your comfort level with the information, and, more importantly,
+you can gauge the reaction of everyone else. Is it interesting? Are you wrong?
+Does anyone care?&lt;/p&gt;
+
+&lt;h2&gt;Your talk gets interesting when it&amp;rsquo;s over&lt;/h2&gt;
+
+&lt;p&gt;My favorite part about talks are the questions afterwards (if your conference
+allows it). Don&amp;rsquo;t shy away from them. They&amp;rsquo;re a great barometer of how well you
+know your material, and, most importantly, whether your audience &amp;ldquo;got it&amp;rdquo;. If
+you plan on giving your talk again, take special note of what happens in the
+question-and-answer section. It&amp;rsquo;s a goldmine for improving and changing your
+talk for the next time through.&lt;/p&gt;
+
+&lt;h2&gt;Be excited&lt;/h2&gt;
+
+&lt;p&gt;There&amp;rsquo;s one mistake I consistently see made by speakers both novice and
+experienced: they&amp;rsquo;re not &lt;em&gt;excited&lt;/em&gt; about their talk. Changing this one thing
+will completely, utterly change the perception of your talk for the better.&lt;/p&gt;
+
+&lt;p&gt;You&amp;rsquo;re on stage, ostensibly talking about something that interests you or makes
+your life better or saves you time. &lt;strong&gt;Be fucking excited about that&lt;/strong&gt;. Let your
+enthusiasm bleed through. People absolutely react to emotion. The opposite is
+just as true: a passive voice on-stage will lead to a passive response by your
+audience.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Typography</title>
+   <link href="http://speaking.io/design/typography"/>
+   <updated>2014-01-14T00:00:00-08:00</updated>
+   <id>http://speaking.io/design/typography</id>
+   <content type="html">&lt;p&gt;Typography is probably the biggest thing people fuck up.&lt;/p&gt;
+
+&lt;p&gt;Look. If you&amp;rsquo;re using slides during your talk, they should &lt;em&gt;help&lt;/em&gt; you out, not
+fuck everything up. I have seen more slides that look like this than I have
+heard jokes about my hometown of Fargo, North Dakota (and I have literally heard
+all of them, yes including your clever woodchipper joke, although yes, that one
+is my favorite too):&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cl.ly/image/120u3e130u0G/content&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;No one in the room can see this- even the brown-nosers in the front row.
+Remember, most projectors you&amp;rsquo;ll have to use are going to be terrible, most
+people will be a minimum of 15 feet or more from you, and people at the back
+could be hundreds of feet away from you. Miles, maybe. Kilomiles, for those who
+use the metric system.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s all that you need to know: you can&amp;rsquo;t go too big, use a ton of
+contrast, don&amp;rsquo;t use many words, and choose a solid font. More than &lt;em&gt;anything
+else on this entire site&lt;/em&gt;, doing those four things right will put you in the
+top 10% of speakers out there. People fuck this stuff up &lt;em&gt;all the time&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2&gt;You can&amp;rsquo;t go too big&lt;/h2&gt;
+
+&lt;p&gt;You really can&amp;rsquo;t. I have yet to see a talk that made me think &amp;ldquo;goddamn I can&amp;rsquo;t
+read this because the text is too big&amp;rdquo;. If you string together four projectors
+and combine them into a mega slide you &lt;em&gt;still&lt;/em&gt; can&amp;rsquo;t go big enough.&lt;/p&gt;
+
+&lt;p&gt;I wish more people would build their slide deck from the audience. That is, sit
+in the very back of the room, hook up your laptop, and write your slides. If you
+can&amp;rsquo;t see what you&amp;rsquo;re actually doing from back there, &lt;em&gt;neither can anybody
+else&lt;/em&gt;. You&amp;rsquo;re at a severe advantage when you&amp;rsquo;re a foot away from your screen,
+clicking away.&lt;/p&gt;
+
+&lt;p&gt;You can&amp;rsquo;t go big enough. Instead of this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cl.ly/image/3x2L2w033I0G/content&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;hellip;you can do this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cl.ly/image/3Y1o3B0u3T3f/content&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Did you catch what I did there? It was a little subtle, but I bumped the font
+size up slightly. Remove words, make it bigger. You don&amp;rsquo;t always have to take up
+the entire slide, but the thing to note is that &lt;em&gt;you can&amp;rsquo;t go too big&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2&gt;Use a ton of contrast&lt;/h2&gt;
+
+&lt;p&gt;Remember my first example that makes me want to commit felonies?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cl.ly/image/120u3e130u0G/content&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Dark green on black is horrible because it doesn&amp;rsquo;t have a lot of contrast. This
+is especially important because again, the projector you use will probably be
+terrible, and the room you present in will most likely not be a pitch black
+darkroom. Unless you combine a strong dark color against a strong light color,
+you&amp;rsquo;re going to have a hard time getting your audience to easily see what you
+wrote.&lt;/p&gt;
+
+&lt;p&gt;Black and white is usually a safe combination- it&amp;rsquo;s one of those things that
+it&amp;rsquo;s hard to go wrong with something so basic. And that&amp;rsquo;s a &lt;em&gt;good&lt;/em&gt; thing.
+Otherwise, look into &lt;a href=&quot;/design/color/&quot;&gt;how you can select good colors&lt;/a&gt; and design
+that looks a bit more interesting.&lt;/p&gt;
+
+&lt;h2&gt;Don&amp;rsquo;t use many words&lt;/h2&gt;
+
+&lt;p&gt;Remove words, make it bigger. It&amp;rsquo;s a good policy to have. Part of designing a
+good, legible slide deck is to reduce the amount of things on your slides as
+much as possible.&lt;/p&gt;
+
+&lt;p&gt;That does two things for you: it makes it easier for your audience to parse
+(which makes it more valuable to you), and it also means less time spent reading
+for your audience. That&amp;rsquo;s good for them, because no one actually wants to read
+anything in life unless it&amp;rsquo;s &lt;em&gt;50 Shades of Grey&lt;/em&gt;, but it&amp;rsquo;s most helpful for you,
+since it means they&amp;rsquo;ll spend more time listening to you. You want your slides to
+accompany your talk, not be the focal point.&lt;/p&gt;
+
+&lt;h2&gt;Choose a solid font&lt;/h2&gt;
+
+&lt;p&gt;There are a lot of good fonts to choose. It&amp;rsquo;s actually a fairly minor thing
+compared to the other three aspects discussed here, but it can make a
+difference.&lt;/p&gt;
+
+&lt;p&gt;Usually I&amp;rsquo;ll try to pick something that looks clean and obvious at large font
+sizes. Sans-serifs are often good choices, although serifs can work as well&amp;hellip;
+it all depends on how you use them.&lt;/p&gt;
+
+&lt;p&gt;If you&amp;rsquo;re looking for something a bit different than your computer&amp;rsquo;s default
+fonts, try &lt;a href=&quot;http://www.google.com/fonts&quot;&gt;Google Fonts&lt;/a&gt;. They have a slew of choices
+and a clever interface to help you narrow down what&amp;rsquo;s interesting to you. Other
+really great sites include the &lt;a href=&quot;http://losttype.com&quot;&gt;Lost Type Co-op&lt;/a&gt; and &lt;a href=&quot;https://theleagueofmoveabletype.com&quot;&gt;The
+League of Moveable Type&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Slide Transitions and Animations</title>
+   <link href="http://speaking.io/design/transitions"/>
+   <updated>2014-01-14T00:00:00-08:00</updated>
+   <id>http://speaking.io/design/transitions</id>
+   <content type="html">&lt;p&gt;Nah, skip &amp;lsquo;em.&lt;/p&gt;
+
+&lt;p&gt;Except in the most subtle of cases, you&amp;rsquo;re going to look like a total moron if
+you jam all these over-the-top animations in there.&lt;/p&gt;
+
+&lt;p&gt;Definitely use the flaming fire explosion transition, though, that one is gold.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Software</title>
+   <link href="http://speaking.io/design/software"/>
+   <updated>2014-01-14T00:00:00-08:00</updated>
+   <id>http://speaking.io/design/software</id>
+   <content type="html">&lt;p&gt;One of the questions I get asked a lot is: &amp;ldquo;What software did you use to make
+your slides?&amp;rdquo; I reply back with: &amp;ldquo;Emacs&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Just kidding, no one uses Emacs.&lt;/p&gt;
+
+&lt;p&gt;Luckily for you there&amp;rsquo;s only one legitimate answer to this question, and it
+depends entirely on your life outlook.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Are you using Windows?&lt;/strong&gt; Use &lt;a href=&quot;http://office.microsoft.com/en-us/powerpoint/&quot;&gt;PowerPoint&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Are you using OS X?&lt;/strong&gt; Use &lt;a href=&quot;http://www.apple.com/iwork/keynote/&quot;&gt;Keynote&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;I&amp;rsquo;m a huge fan of Keynote, and it helps me create beautiful slides. But well-
+designed slides have virtually nothing to do with what software creates them.
+Well-designed slides are simple and clear. Those traits can be found in
+Keynote, PowerPoint, MS Paint… whatever you&amp;rsquo;ve got lying around.&lt;/p&gt;
+
+&lt;h2&gt;Alternative Software&lt;/h2&gt;
+
+&lt;p&gt;For most people, Keynote and PowerPoint are going to be the traditional routes
+to take. You won&amp;rsquo;t want to stray too far from this gold standard.&lt;/p&gt;
+
+&lt;p&gt;If you &lt;em&gt;are&lt;/em&gt; interested in alternatives, there are plenty. Here&amp;rsquo;s a few:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/puppetlabs/showoff&quot;&gt;Showoff&lt;/a&gt; lets you write your slides in
+Markdown, JavaScript, and CSS. It&amp;rsquo;s a great option if you&amp;rsquo;re looking to do
+live demos of web software, particularly if you want up-to-date data or
+possibly some interactivity with your audience.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/bartaz/impress.js&quot;&gt;impress.js&lt;/a&gt; is an option if you are
+easily swayed by fancy moving animation and junk.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;I&amp;rsquo;ve also seen people type things into a plain text editor and crank up the
+font size. Sometimes simple is all you need.&lt;/p&gt;
+
+&lt;p&gt;Remember: the clothes don&amp;rsquo;t make the (wo)man, and the software doesn&amp;rsquo;t make the
+slide deck.&lt;/p&gt;
+
+&lt;p&gt;Well, software literally does make the slide deck, but you get the point.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Sharing Your Talk Online</title>
+   <link href="http://speaking.io/react/sharing-your-talk-online"/>
+   <updated>2014-01-14T00:00:00-08:00</updated>
+   <id>http://speaking.io/react/sharing-your-talk-online</id>
+   <content type="html">&lt;p&gt;So there&amp;rsquo;s this thing called the internet and it&amp;rsquo;s filled with people who hate
+everything you stand for and probably would like to say mean things to you (but
+only on the internet and not to your face). Cool! Let&amp;rsquo;s feed the fire!&lt;/p&gt;
+
+&lt;h2&gt;Posting your slides&lt;/h2&gt;
+
+&lt;p&gt;It&amp;rsquo;s up to you whether you want to put your slide deck online. For some people,
+giving a talk is a personal thing, and they don&amp;rsquo;t want to share with people who
+weren&amp;rsquo;t actually in the room with them. Makes sense.&lt;/p&gt;
+
+&lt;p&gt;For others, it can be interesting. Ignoring the trolls, there &lt;em&gt;are&lt;/em&gt; a lot of
+fine, upstanding people on the internet, and it can be a real rush to see people
+having an interesting discussion based on something &lt;em&gt;you&lt;/em&gt; created. It&amp;rsquo;s like the
+Q&amp;amp;A session you might have had after your talk, except multiplied thousands of
+times over. It can be fun to engage in these conversations.&lt;/p&gt;
+
+&lt;p&gt;The very basic thing you can do is put your slides on a slide sharing website
+like &lt;a href=&quot;https://speakerdeck.com&quot;&gt;Speaker Deck&lt;/a&gt;. Depending on the talk, slides can
+still be very valuable on their own, even without your voice alongside them.
+After all, it&amp;rsquo;s quicker to read than it is to listen.&lt;/p&gt;
+
+&lt;h2&gt;Posting your talk&lt;/h2&gt;
+
+&lt;p&gt;It&amp;rsquo;s helpful to go the extra distance, though. Ideally, your audience online
+should get just as much context as the audience in your room.&lt;/p&gt;
+
+&lt;p&gt;One thing you can do is &lt;a href=&quot;/prep/recording-your-talk&quot;&gt;record your voice&lt;/a&gt; while you
+flip through your talk. You can either do this during your practice runs or, if
+you want the &amp;ldquo;real deal&amp;rdquo;, record it as you give it in front of a live studio
+audience.&lt;/p&gt;
+
+&lt;p&gt;Finally, you can also get yourself recorded. A lot of conferences will take
+video of their speakers nowadays, and will post it on YouTube or Vimeo or their
+own sites. This is a really good approach, but just be warned: it can sometimes
+take conferences months and months before they get all their video rendered and
+cleaned up. It&amp;rsquo;s not trivial thing.&lt;/p&gt;
+
+&lt;h2&gt;Expanding on your talk&lt;/h2&gt;
+
+&lt;p&gt;There&amp;rsquo;s a few intrepid souls that go even further. Rather than just try to mimic
+the talk environment online, they go to greater lengths to make sure the
+&lt;em&gt;online&lt;/em&gt; experience is actually the superset of experiences.&lt;/p&gt;
+
+&lt;p&gt;For example, &lt;a href=&quot;https://twitter.com/rtomayko&quot;&gt;Ryan Tomayko&lt;/a&gt; gave a talk called
+&lt;em&gt;The Shell Hater&amp;rsquo;s Handbook&lt;/em&gt;, which explained the POSIX shell to beginners.
+Afterwards, he &lt;a href=&quot;http://shellhaters.heroku.com&quot;&gt;published a companion website&lt;/a&gt;
+that had the video of his talk, his slide deck, and then on top of all of that,
+a &lt;a href=&quot;http://tomayko.com/writings/awkward-ruby&quot;&gt;separate blog post&lt;/a&gt; that expands on
+some of the things he talked about in his talk. Finally, he made a &lt;a href=&quot;http://shellhaters.heroku.com/posix&quot;&gt;reference
+page&lt;/a&gt; for all the POSIX utilities you might
+be interested in after all that. He created an experience that was more valuable
+than just regurgitating the talk video.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve seen people do similar things with their slide deck. They&amp;rsquo;ll split up most
+of their slides into separate images, and then write a paragraph or two that
+describes what was said about that particular slide. This is a lot of work
+(which is the reason I haven&amp;rsquo;t quite gone that far on my own talks), but it&amp;rsquo;s
+really makes a difference while reading it.&lt;/p&gt;
+
+&lt;p&gt;Want something a bit less time-consuming? Instead of just tweeting a link to
+your slide deck, make a quick website and add a 4-8 paragraph introduction to
+your slide deck so people get a better context of what they&amp;rsquo;re getting into.
+Best bang for your buck.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Scoping out the Room</title>
+   <link href="http://speaking.io/prep/scoping-out-the-room"/>
+   <updated>2014-01-14T00:00:00-08:00</updated>
+   <id>http://speaking.io/prep/scoping-out-the-room</id>
+   <content type="html">&lt;p&gt;For those of you about to get onto the stage in front of a million strangers for
+the first time, congrats! You&amp;rsquo;re about to pee your pants.&lt;/p&gt;
+
+&lt;p&gt;Most of the hard work should be done by now, so you should be able to coast from
+here on out lol who am I kidding things get tense at this point. There are a
+couple last-minute things you should pay attention to if you have the spare
+brain cells to worry about more things, though. They might make everything go a
+little smoother for you.&lt;/p&gt;
+
+&lt;h2&gt;Day before: check the room&lt;/h2&gt;
+
+&lt;p&gt;If you don&amp;rsquo;t talk until the second or third day of the conference or event, you
+might be able to check out the room before hand. First, sweep it for bombs and
+stuff. Make sure no one&amp;rsquo;s tryna take you out. Second, just get a lay of the
+land. Is your voice gonna get all echo-y? Is there a monitor on stage facing you
+so you can hear yourself? How about a screen, so you can follow along with your
+slides? A countdown clock, or somone in the back holding up a sign, or do you
+have to monitor your time yourself?&lt;/p&gt;
+
+&lt;p&gt;Do you have access to power? What kind of microphone is it- the one you have to
+hold (in which case please note it&amp;rsquo;s hard to drink a beer, hold a mic, and use a
+remote all at the same time), is it a lavalier mic, or is a douchebag mic (you
+know, the one that attaches to your face)?&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s a lot of questions- some of them may be more interesting to you than
+others. The more information you have to prep yourself, the better.&lt;/p&gt;
+
+&lt;h2&gt;Day of: feel out the vibe&lt;/h2&gt;
+
+&lt;p&gt;Unless you&amp;rsquo;re going right away, do take a minute to listen to the other speaker
+and see if there&amp;rsquo;s any curveballs.&lt;/p&gt;
+
+&lt;p&gt;Sometimes it&amp;rsquo;s worth asking other speakers. I spoke at a conference in Norway,
+and before I went up, another speaker told me that Norwegians don&amp;rsquo;t tend to
+exhibit any outward emotion during a talk. I told him, &amp;ldquo;c&#39;mon dude, don&amp;rsquo;t deal
+with generalizations. Plus I&amp;rsquo;m fucking hilarious so I&amp;rsquo;m sure the room will love
+me.&amp;rdquo; Sure enough, it was the most excruciating fifty minute talk I&amp;rsquo;ve had to
+give. Then everyone came up afterwards and said how much they enjoyed my talk. I
+love that country.&lt;/p&gt;
+
+&lt;p&gt;Anyway broad cultural generalizations based on a single experience aside,
+sometimes different rooms and different conferences react differently. A lot of
+it has to do with the room, too: big, huge rooms are almost always going to be
+quiet and awkward. Cram everyone into a shoebox, though, and you&amp;rsquo;re much likely
+to have a more informal, fun crowd.&lt;/p&gt;
+
+&lt;h2&gt;Seconds before: PANIC&lt;/h2&gt;
+
+&lt;p&gt;Wait no, don&amp;rsquo;t ever panic. The crowd can smell it.&lt;/p&gt;
+
+&lt;p&gt;Common gotchyas that you&amp;rsquo;ll sometimes forget in the walk up to the podium: is
+your microphone turned on? Do you need to plug your laptop in? Is your cell
+phone turned off? (Trust me on that one.)&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Repetition</title>
+   <link href="http://speaking.io/plan/repetition"/>
+   <updated>2014-01-14T00:00:00-08:00</updated>
+   <id>http://speaking.io/plan/repetition</id>
+   <content type="html">&lt;p&gt;A few years ago I was at a conference in a Irish castle. The organizers brought
+in &lt;em&gt;a storyteller&lt;/em&gt;. He wasn&amp;rsquo;t involved with the conference, he didn&amp;rsquo;t say
+anything remotely related to the conference&amp;hellip; he just retold a local story that
+they had been telling for generations.&lt;/p&gt;
+
+&lt;p&gt;He was a remarkable speaker. You found yourself, along with everyone in the
+whole room, deeply engaged in this funny, fascinating story he spun. There were
+a number of reasons behind how he sucked us in, but one of those was repetition.&lt;/p&gt;
+
+&lt;p&gt;Great storytellers use repetition. Watch one of your favorite comedians. It&amp;rsquo;s
+likely they&amp;rsquo;ll tell a joke at the front of the show, and then revisit a portion
+of that joke later on in the show. It&amp;rsquo;s an inside joke with the audience,
+really; it&amp;rsquo;s a connection on a personal level with them. &lt;em&gt;We&amp;rsquo;ve been through
+this before, you and I.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The Irish storyteller was no different. He had a recurring theme with how he
+told the story, even saying the exact three or four sentences a couple different
+times, only slightly changing a few words to describe the same experience for
+each new character in the story we were introduced to. Then he would move on to
+the next character, each time recapping that character&amp;rsquo;s story with the same few
+sentences.&lt;/p&gt;
+
+&lt;h2&gt;Talks and storytelling&lt;/h2&gt;
+
+&lt;p&gt;Repetition is a great way to tell your story, and all talks, one way or another,
+are stories. If you go back and watch a Steve Jobs keynote, virtually every
+single keynote finished with a recap. There was no new information provided, but
+it served as a bookend to what he was trying to convey. He also typically did
+the same thing at the top of every section: he&amp;rsquo;d give you a quick few bullet
+points of what he was about to talk about in greater detail. By giving people
+the same information in a slightly different way, you&amp;rsquo;re giving them additional
+context with which they can grab hold of the idea you&amp;rsquo;re explaining. This is
+especially important when you&amp;rsquo;re trying to explain a complicated subject.&lt;/p&gt;
+
+&lt;p&gt;Think about using this to your advantage in your talk. Add recap sections before
+you move on to the next topic. Add a final one- or two-minute closing section
+that recaps everything you said. Underline and repeat important concepts one or
+two times, so people know it&amp;rsquo;s important.&lt;/p&gt;
+
+&lt;p&gt;Repeat yourself. Reiterate what you just said. Rephrase what you just said.
+It&amp;rsquo;ll help persuade people to remember what you&amp;rsquo;re saying.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Remotes</title>
+   <link href="http://speaking.io/deliver/remotes"/>
+   <updated>2014-01-14T00:00:00-08:00</updated>
+   <id>http://speaking.io/deliver/remotes</id>
+   <content type="html">&lt;p&gt;A good reason to use a remote for your talk is to avoid needing to be tethered
+to your laptop.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cl.ly/image/1h1b2Z3L0a2Y/content&quot; alt=&quot;Someone photoshop me into the Michelangelo fresco, please.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s up to you whether you want to use a remote or not. I don&amp;rsquo;t tend to move
+around a lot on-stage, so I usually don&amp;rsquo;t have to stretch to reach my laptop,
+but I still like using a remote because it lets me move between slides more
+naturally than needing to touch my laptop every few minutes.&lt;/p&gt;
+
+&lt;h2&gt;Remotes you shouldn&amp;rsquo;t use&lt;/h2&gt;
+
+&lt;p&gt;First of all, don&amp;rsquo;t use the Apple remote.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cl.ly/image/3520300d1r1O/content&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It has a great form factor, so it&amp;rsquo;s tempting, but it requires line-of-sight to
+your laptop. Even if you plan on standing behind it, you won&amp;rsquo;t be lined up with
+the IR receiver (and the latest MacBooks don&amp;rsquo;t even have an IR sensor either).
+Every time I&amp;rsquo;ve seen someone try this it&amp;rsquo;s been a disaster.&lt;/p&gt;
+
+&lt;p&gt;Second of all, don&amp;rsquo;t use the other Apple remote. Apple makes an app called
+Keynote Remote that lets you control your slides from your iPhone. While a good
+idea, it communicates over wifi or Bluetooth, which leaves yourself open to the
+risk of either of those breaking on you (and it&amp;rsquo;ll happen). Additionally, I&amp;rsquo;ve
+seen a remarkable amount of people accidentally brush their phone while they&amp;rsquo;re in the middle
+of their talk and end up moving slides when they didn&amp;rsquo;t intend to.&lt;/p&gt;
+
+&lt;h2&gt;Remotes you should use&lt;/h2&gt;
+
+&lt;p&gt;Pretty much any other remote that has a real connection to your laptop and real buttons.&lt;/p&gt;
+
+&lt;p&gt;I use &lt;a href=&quot;http://www.amazon.com/dp/B002GHBUTU/ref=cm_sw_su_dp&quot;&gt;a Logitech remote&lt;/a&gt;
+that I&amp;rsquo;m a big fan of. It has simple buttons, is light and comfortable to hold,
+and even has a green laser pointer available for when someone in the audience is
+giving me gruff and I want to blind him in the eyeballs. Like most of these
+types of remotes, it has a small USB dongle that slides out of the bottom&amp;hellip;
+plug it into your laptop and it identifies as a USB keyboard so there&amp;rsquo;s no extra
+software or other horsecrap to install.&lt;/p&gt;
+
+&lt;p&gt;When you&amp;rsquo;re up on stage, just act normally. You just need a quick tap of a
+button to go forward; no need to telegraph your button press to everyone. Don&amp;rsquo;t
+forget to &lt;a href=&quot;/prep/practicing-it/&quot;&gt;practice&lt;/a&gt; with the remote, either. Even though
+it&amp;rsquo;s not rocket science, you do have to get a little comfortable with it so you
+don&amp;rsquo;t lose your train of thought while you&amp;rsquo;re switching slides.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Recording Your Talk</title>
+   <link href="http://speaking.io/prep/recording-your-talk"/>
+   <updated>2014-01-14T00:00:00-08:00</updated>
+   <id>http://speaking.io/prep/recording-your-talk</id>
+   <content type="html">&lt;p&gt;So you&amp;rsquo;re nervously up on stage in front of hundreds of strangers about to give
+a talk, sweating profusely, petrified that you might get your own name wrong.&lt;/p&gt;
+
+&lt;p&gt;SOUNDS LIKE A GOOD TIME TO RECORD YOUR WEAKNESS AND UNCERTAINTY!&lt;/p&gt;
+
+&lt;p&gt;After my &lt;a href=&quot;http://zachholman.com/posts/what-they-dont-tell-you-about-public-speaking/&quot;&gt;What They Don&amp;rsquo;t Tell You About Public Speaking&lt;/a&gt;
+post, I got a number of questions asking about how I record the audio and slide
+transitions of my talks.&lt;/p&gt;
+
+&lt;h2&gt;QuickTime on OS X&lt;/h2&gt;
+
+&lt;p&gt;There&amp;rsquo;s a million ways to do this. Keynote, for example, has a recording
+function built directly into presenter mode, although it&amp;rsquo;s difficult to tweak
+and to export. Beyond that, there&amp;rsquo;s a million different apps you can use to do
+this, too. I try to stay as simple as possible: on my Mac, I just use
+QuickTime&amp;rsquo;s &lt;em&gt;Screen Recording&lt;/em&gt; feature.&lt;/p&gt;
+
+&lt;p&gt;Either before a talk on-stage or at home practicing my slides, running a quick
+screen recording session is pretty simple. Start a new Screen Recording:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cl.ly/image/0X2J3q3V3r04/content&quot; alt=&quot;Screen Recording&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;hellip;then hit record:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cl.ly/image/1b1A0R1a0i3r/content&quot; alt=&quot;Record&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you&amp;rsquo;re on stage and on a projector, the trick is to get QuickTime to record
+your &lt;em&gt;projected slides&lt;/em&gt; rather than your presenter display. Luckily, QuickTime
+makes it really easy. Before you start your slideshow, hit record, then mouse
+over to the other screen (in other words, the projector). It&amp;rsquo;ll dim the screen
+and inform you:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cl.ly/3w2K2e3d0d3r2s2Y1X0f/content&quot; alt=&quot;Click to Record&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Click it, then you&amp;rsquo;re off to the races. It&amp;rsquo;ll record your voice on your internal
+microphone (surprisingly well, too), and as you flip through your slides it&amp;rsquo;ll
+retain all the transitions and little details you can&amp;rsquo;t get from viewing slides
+online.&lt;/p&gt;
+
+&lt;h2&gt;It&amp;rsquo;s for you&lt;/h2&gt;
+
+&lt;p&gt;The best thing about recording your talks is that it&amp;rsquo;s a great learning tool.
+It&amp;rsquo;s cliché, but force yourself to listen to yourself. It will &lt;strong&gt;utterly change
+your perspective&lt;/strong&gt;. You&amp;rsquo;ll hear all of the &lt;em&gt;uhhhhh&lt;/em&gt;s and &lt;em&gt;ummmmm&lt;/em&gt;s you didn&amp;rsquo;t
+notice at the time. That&amp;rsquo;s good; listening to yourself talk is designed to make
+you angry enough to change those habits.&lt;/p&gt;
+
+&lt;h2&gt;It&amp;rsquo;s for them&lt;/h2&gt;
+
+&lt;p&gt;As I mentioned previously, your mileage may vary when it comes to conference
+videos of your talks. Half of conferences won&amp;rsquo;t film you, and the other half may
+take months to publish all their talks while organizers take a well-deserved
+breather post-conference.&lt;/p&gt;
+
+&lt;p&gt;So think about recording your own talk so you can post it on your site
+immediately after your talk. If you&amp;rsquo;ve wowed someone in the room, they&amp;rsquo;ll be
+able to share the experience of your talk to their friends as soon as possible.&lt;/p&gt;
+
+&lt;p&gt;I use &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt; for &lt;a href=&quot;https://vimeo.com/holman&quot;&gt;my screencasts and talks&lt;/a&gt;
+because they&amp;rsquo;re a swell company.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Practicing It</title>
+   <link href="http://speaking.io/prep/practicing-it"/>
+   <updated>2014-01-14T00:00:00-08:00</updated>
+   <id>http://speaking.io/prep/practicing-it</id>
+   <content type="html">&lt;p&gt;Do you know how Steve Jobs sounded so confident when he gave his famous Apple
+keynotes? The answer is pretty obvious: he was a huge, huge cocaine fiend.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cl.ly/image/0f37101j3D3u/content&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;For the rest of us, there&amp;rsquo;s practicing. Did you know that practice makes
+perfect? Because it doesn&amp;rsquo;t. That was a filthy lie. But it does help out a ton.&lt;/p&gt;
+
+&lt;h2&gt;How to practice&lt;/h2&gt;
+
+&lt;p&gt;Again, everyone&amp;rsquo;s different, but here&amp;rsquo;s how I do it:&lt;/p&gt;
+
+&lt;p&gt;First, I get the whole slide deck in a &amp;ldquo;finished&amp;rdquo; state. &amp;ldquo;Finished&amp;rdquo; instead of
+finished because it&amp;rsquo;s amazing how much you&amp;rsquo;ll change after you&amp;rsquo;ve gone through
+your talk aloud once or twice. It becomes pretty obvious what works and what
+doesn&amp;rsquo;t work.&lt;/p&gt;
+
+&lt;p&gt;Once I&amp;rsquo;m ready, I go through the talk two or three times, all the way through.
+Primarily I&amp;rsquo;m looking for 1) how it feels altogether, and 2) how long it takes
+to get through the whole thing. Because of the latter, it&amp;rsquo;s important to &lt;em&gt;say
+words out loud&lt;/em&gt; while practicing. You speak in your mind way too quickly, and
+you need to teach yourself the muscle memory of how your talk fits together in
+your mouth.&lt;/p&gt;
+
+&lt;p&gt;That was a strange last sentence but we&amp;rsquo;ll go with it.&lt;/p&gt;
+
+&lt;p&gt;Two or three times isn&amp;rsquo;t a lot of go-throughs- if you&amp;rsquo;re a beginner and you&amp;rsquo;re
+nervous about it, I&amp;rsquo;d definitely do more like five or seven. Part of what helps
+me, though, is that I&amp;rsquo;m constantly talking to myself about the talk over the
+week or so that I&amp;rsquo;m building it. By the time I&amp;rsquo;m up on stage, I&amp;rsquo;ve probably at
+least thought about every slide a dozen times. By thinking about it that much,
+it lets me be a little looser on stage and ad-lib more parts.&lt;/p&gt;
+
+&lt;h2&gt;When to practice&lt;/h2&gt;
+
+&lt;p&gt;Like everything with public speaking, you should give yourself as much time to
+practice as you can. But like everything with public speaking, you&amp;rsquo;re going to
+wait until the night before, aren&amp;rsquo;t you. You are such a jerk.&lt;/p&gt;
+
+&lt;p&gt;Really, though, try not to push it back &lt;em&gt;too&lt;/em&gt; much. Sometimes you do run into
+times where you want to redo entire parts of the deck after hearing it out loud
+and realizing you sound stupid. That&amp;rsquo;s okay.&lt;/p&gt;
+
+&lt;h2&gt;Recording&lt;/h2&gt;
+
+&lt;p&gt;People say you should record yourself talking, and they&amp;rsquo;re a hundred percent
+correct. You wouldn&amp;rsquo;t believe how stupid you sound when you&amp;rsquo;re listening to
+yourself later. All the &lt;em&gt;umms&lt;/em&gt; and &lt;em&gt;ahhs&lt;/em&gt; and &lt;em&gt;likes&lt;/em&gt; sneak in that you never
+noticed previously.&lt;/p&gt;
+
+&lt;p&gt;If you haven&amp;rsquo;t given a talk before, definitely try &lt;a href=&quot;/prep/recording-your-talk&quot;&gt;recording
+yourself&lt;/a&gt; before you give it for real. It&amp;rsquo;ll be the
+best thing you do — I guarantee it.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Number of Slides</title>
+   <link href="http://speaking.io/plan/number-of-slides"/>
+   <updated>2014-01-14T00:00:00-08:00</updated>
+   <id>http://speaking.io/plan/number-of-slides</id>
+   <content type="html">&lt;p&gt;I&amp;rsquo;ve seen things.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve seen the grimy sweat dripping off a brow as the speaker punishes three
+hundred slides in a half hour. I&amp;rsquo;ve seen the off-the-cuff confidence of a
+speaker give her talk without even using a single slide. I&amp;rsquo;ve seen a friend eat
+three Kentucky Fried Chicken Double Down™ sandwiches. I&amp;rsquo;ve seen things, man.&lt;/p&gt;
+
+&lt;p&gt;People keep focusing on this weird metric. They always ask me &amp;ldquo;well how many
+slides do you have left?&amp;rdquo; It&amp;rsquo;s an irrelevant question, though, because the
+number of slides you should plan for ultimately depends on the type of talk you
+want to give and the type of person you are.&lt;/p&gt;
+
+&lt;h2&gt;A good first step&lt;/h2&gt;
+
+&lt;p&gt;You&amp;rsquo;ll understand yourself more as you give more talks. As you
+&lt;a href=&quot;/prep/practicing-it&quot;&gt;practice&lt;/a&gt; more and more, you start understanding how many
+slides you need in order to comfortably get your point across. If this is your
+first talk, that might be a bit difficult to judge, though.&lt;/p&gt;
+
+&lt;p&gt;Personally, I go a bit heavier on the slides than most people. Slides are the
+outline for me: I don&amp;rsquo;t put that many words on a slide, because I only need a
+little push in order for me to remember what I wanted to talk about. Since I
+only use one or two words per slide, I tend to flip through them a bit quicker
+than many other presenters. That ends up generating maybe a hundred slides or so
+for a thirty-minute talk, for me.&lt;/p&gt;
+
+&lt;p&gt;But that can change depending on the talk. If it&amp;rsquo;s less technical, if it&amp;rsquo;s more
+of a story, you can get by with only a couple slides (or no slides at all!) With
+a less-technical focus, you don&amp;rsquo;t need to put as much jargon on the screen, and
+that lets you play with the pace and tempo as you go.&lt;/p&gt;
+
+&lt;h2&gt;Timing&lt;/h2&gt;
+
+&lt;p&gt;There&amp;rsquo;s really no way to easily judge how quickly you&amp;rsquo;re going to go through
+slides. Sometimes I&amp;rsquo;ll find myself doing ten slides in twenty seconds, if I&amp;rsquo;m
+trying to convey a rushed, more intensive moment (possibly for humor-related
+purposes). Sometimes I&amp;rsquo;ll sit on a slide for five or ten minutes, if the slide
+warrants it.&lt;/p&gt;
+
+&lt;p&gt;When it comes to timing, it resides entirely on you: how fast your cadence is,
+how much you drift off-tangent, and so on. If you&amp;rsquo;re new to public speaking, the
+best thing you can do for yourself is to start practicing it before you even
+finish the entire slide deck, so you have a better handle on how much time
+you&amp;rsquo;ll need to devote on making more slides.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Dealing with Nervousness</title>
+   <link href="http://speaking.io/deliver/nervousness"/>
+   <updated>2014-01-14T00:00:00-08:00</updated>
+   <id>http://speaking.io/deliver/nervousness</id>
+   <content type="html">&lt;p&gt;I don&amp;rsquo;t know of anyone who does a lot of public speaking and doesn&amp;rsquo;t still get
+nervous every time.&lt;/p&gt;
+
+&lt;p&gt;I talked about this to someone whose talks I greatly admire. He has a certain
+confidence and ease onstage and in person that makes it hard to believe he has a
+hard time with nervousness. I asked him about it and he admitted he can&amp;rsquo;t eat
+anything before he gives his talk. Even if he has a closing keynote at 5pm, then
+6pm will be the first food he eats that day. Everyone is nervous.&lt;/p&gt;
+
+&lt;h2&gt;Dealing with nerves&lt;/h2&gt;
+
+&lt;p&gt;Nervousness impacts people differently. Whenever I&amp;rsquo;d play a solo during high
+school jazz band, I&amp;rsquo;d sometimes start yawning. That&amp;rsquo;s just how I coped: I get
+very sleepy physically, probably as some defense to hide behind an external
+barrier of nonchalance (meanwhile inside my head I was losing it). I didn&amp;rsquo;t even
+realize it at first: my director noticed during rehearsal once and said &amp;ldquo;look at
+him, he&amp;rsquo;s yawning!&amp;rdquo; which, if you&amp;rsquo;re an aspiring high school jazz band director
+take note, is a &lt;em&gt;horrible&lt;/em&gt; thing to say to someone who is already very nervous
+and now has to worry about not yawning of all things, sheesh.&lt;/p&gt;
+
+&lt;p&gt;Nerves are a good thing, though, and if there&amp;rsquo;s anything I&amp;rsquo;ve learned it&amp;rsquo;s that
+they do help you out. Many times they serve to put you on edge. My brain tends
+to work much more quickly — and &lt;em&gt;better&lt;/em&gt; — when I&amp;rsquo;m nervous and on stage
+(admittedly I think it takes some experience before nerves turn into an
+advantage like that). Realizing that nervousness is a feeling designed to &lt;em&gt;help&lt;/em&gt;
+you rather than &lt;em&gt;hurt&lt;/em&gt; you is a great first step. If you weren&amp;rsquo;t nervous, it
+means that you don&amp;rsquo;t care about what&amp;rsquo;s about to happen. If you don&amp;rsquo;t care, then
+get off the fucking stage.&lt;/p&gt;
+
+&lt;p&gt;Practice is the number one remedy, of course. Rehearsing is the practice of
+reducing the amount of unknown in your life. You become more accustomed with
+what you have to say, you expand your context around just the lines you planned
+to say verbatim. You become more confident with ad libbing.&lt;/p&gt;
+
+&lt;h2&gt;Exponential decay&lt;/h2&gt;
+
+&lt;p&gt;You know how I said everyone gets nervous? That&amp;rsquo;s true&amp;hellip; to an extent. I&amp;rsquo;ve
+given a lot of talks over the last few years, and while the nervousness doesn&amp;rsquo;t
+ever go away, the &lt;em&gt;duration&lt;/em&gt; of the nervousness does.&lt;/p&gt;
+
+&lt;p&gt;For the first few talks I gave, I was nervous from the first slide all the way
+to the last slide. Every step was stressful. But as I gave more talks I realized
+that it quickly started to halve. I&amp;rsquo;d make it halfway through before I&amp;rsquo;d get a
+bit more confident. Then a quarter of the way. Now it&amp;rsquo;s to the point where I
+really only face the major portions of nervousness during the first few minutes
+of a talk. I&amp;rsquo;m not sure it&amp;rsquo;s ever going to get better than that (and I still
+haven&amp;rsquo;t figured out a way to reduce the nerves in the hours and days during the
+lead-up to the talk), but realizing that I was getting better at it was a pretty
+huge comfort. As with everything, if you do it enough times you just become more
+comfortable with it.&lt;/p&gt;
+
+&lt;p&gt;There are ways you can cheat this process along, too. At my company we encourage
+people to give run-throughs of their talks before they actually have to do it.
+This is designed to be as realistic as possible, complete with projector and
+podium and butts in seats. If you mess up, your coworkers will be nice about it
+and will give you feedback at the end. Just getting you up on stage in front of
+people — &lt;em&gt;any&lt;/em&gt; people, even if they are your friends — is going to help cheat
+the process along. You get a little bit more comfortable with every step you
+take.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Live Tech Demos</title>
+   <link href="http://speaking.io/prep/live-demos"/>
+   <updated>2014-01-14T00:00:00-08:00</updated>
+   <id>http://speaking.io/prep/live-demos</id>
+   <content type="html">&lt;p&gt;Live demos are like Global Thermonuclear War: the only way to win is to not do a
+live demo in front of hundreds of strangers in the first place.&lt;/p&gt;
+
+&lt;p&gt;Say you want to show off a new software library that you wrote, or a neat
+feature of a language you just discovered. Live demos — where someone flips away
+from their prepared deck to show how to use something — are notoriously
+failure-prone. As an audience member, you brace yourself as you go from a
+prepared haven to the wild west of demoing software.&lt;/p&gt;
+
+&lt;p&gt;They can be done, and they can be done well, but it&amp;rsquo;s likely that you will not
+do it well.&lt;/p&gt;
+
+&lt;h2&gt;Faking it&lt;/h2&gt;
+
+&lt;p&gt;Fortunately, there are a number of ways to fake a live demo. One is to take a
+screencast of yourself performing all of the commands and then you play back
+that video in front of your audience. This has the benefit of being able to
+embed the video directly into your presentation deck, so you don&amp;rsquo;t have to flip
+between apps and display mirroring (which is always going to be a pain in the
+butt to watch).&lt;/p&gt;
+
+&lt;p&gt;I find this approach pretty great, as you don&amp;rsquo;t have to stress about what you&amp;rsquo;re
+typing and can focus entirely on providing the commentary. You can also
+pre-record the commentary too, if that makes you more comfortable, although be
+sure not to overdo it since before long you&amp;rsquo;re basically just playing a movie
+for people and that&amp;rsquo;s no fun for anyone.&lt;/p&gt;
+
+&lt;p&gt;You can also do a live demo, but with a &amp;ldquo;script&amp;rdquo; — in other words, literally
+have a text document that you copy and paste commands from, if you&amp;rsquo;re
+demonstrating a CLI. While watching a demo, I don&amp;rsquo;t particularly care about
+whether someone is typing something in real-time, and copying from a script
+ensures you won&amp;rsquo;t make any typos.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Improving a Talk</title>
+   <link href="http://speaking.io/react/improving"/>
+   <updated>2014-01-14T00:00:00-08:00</updated>
+   <id>http://speaking.io/react/improving</id>
+   <content type="html">&lt;p&gt;That wasn&amp;rsquo;t too bad. You&amp;rsquo;re all done with your talk and everything went great!
+Or they went terrible and no one likes you, but you are somewhat reasonable
+about it and maintain that you will improve next time!&lt;/p&gt;
+
+&lt;p&gt;If you enjoyed giving a talk, chances are that you might want to give that same
+talk again sometime. There are a lot of conferences out there, it&amp;rsquo;s normal to
+repeat the same talk a couple of different times to different audiences.&lt;/p&gt;
+
+&lt;p&gt;There&amp;rsquo;s no reason you can&amp;rsquo;t improve the talk, though. Next time could be even
+better! Or at least, less horrible!&lt;/p&gt;
+
+&lt;h2&gt;Pay attention&lt;/h2&gt;
+
+&lt;p&gt;The biggest thing you should do is pay attention during your talk. Are people
+not listening to you? Are they on their laptops or phones? Do they seem like
+they&amp;rsquo;re a little tuned out? Those are good signs that you may want to improve
+that section of the talk. Either go slower if it&amp;rsquo;s a little too complicated, or
+make it more interesting if it&amp;rsquo;s a little too boring, or drop the entire section
+if it&amp;rsquo;s just not that interesting. Sometimes you have to give a talk a couple of
+times before you can make a final value judgement.&lt;/p&gt;
+
+&lt;p&gt;The number one thing you should pay attention to is the
+&lt;a href=&quot;/react/handling-questions/&quot;&gt;Q&amp;amp;A&lt;/a&gt; session of your talk, if you have one. What
+are people asking you about? That&amp;rsquo;s a huge sign that they&amp;rsquo;re either really
+interested in that portion of your talk or they&amp;rsquo;re really confused about it
+still. It could also mean you did a poor job at arguing that aspect and they
+still don&amp;rsquo;t quite believe you, which means that&amp;rsquo;s a great place to start
+reworking and improving to clarify your point better. If you don&amp;rsquo;t have any
+official Q&amp;amp;A, ask people in the hallways and at any meetups later that night.
+It&amp;rsquo;s also a more informal environment, so people will go into their thoughts a
+bit more than they would in front of an entire room of people.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Handling Questions</title>
+   <link href="http://speaking.io/react/handling-questions"/>
+   <updated>2014-01-14T00:00:00-08:00</updated>
+   <id>http://speaking.io/react/handling-questions</id>
+   <content type="html">&lt;p&gt;You survived your talk. Congratulations! Every now and then a head of state gets
+assassinated during their speech, so pat yourself on your back: you&amp;rsquo;re already
+better off than those unfortunate souls.&lt;/p&gt;
+
+&lt;p&gt;Don&amp;rsquo;t crack that bottle of tequila open yet, though. If you&amp;rsquo;re at a conference,
+or definitely if you&amp;rsquo;re giving a presentation to coworkers, you might have to
+face your gravest challenge yet: the question and answer section.&lt;/p&gt;
+
+&lt;p&gt;Personally, I love Q&amp;amp;A. I&amp;rsquo;d rather give five minute talks and hour long Q&amp;amp;A
+sessions, but then again I also don&amp;rsquo;t mind eating the cheese straight out of the
+pouch in the Velveeta Mac and Cheese box, so your mileage may vary. Q&amp;amp;A can be a
+lot of fun because you&amp;rsquo;re directly talking about things people care about, and
+it helps you gauge what people are interested in in case you&amp;rsquo;re giving this talk
+again later on.&lt;/p&gt;
+
+&lt;p&gt;There&amp;rsquo;s always some shit you have to deal with, though:&lt;/p&gt;
+
+&lt;h2&gt;Dealing with not understanding a question&lt;/h2&gt;
+
+&lt;p&gt;New speakers freak out about Q&amp;amp;A for a number of odd reasons, but the main thing
+you&amp;rsquo;ll end up worrying about? Not understanding what the hell you&amp;rsquo;re being
+asked.&lt;/p&gt;
+
+&lt;p&gt;You&amp;rsquo;re up in front of everyone. Sometimes you&amp;rsquo;re in the spotlight, which makes
+it hard to see who&amp;rsquo;s asking the question. Sometimes the person asking the
+question doesn&amp;rsquo;t have a microphone. Sometimes the person asking the question has
+a heavy accent or isn&amp;rsquo;t a native speaker. Sometimes you&amp;rsquo;re just stressed out
+from your talk that your fried brain won&amp;rsquo;t have the faintest idea of what the
+questioner is talking about.&lt;/p&gt;
+
+&lt;p&gt;With all of these things the same rules always apply. They all sound stupid,
+now, while you&amp;rsquo;re reading this, but you&amp;rsquo;ll be amazed about what you&amp;rsquo;ll forget
+when you&amp;rsquo;re on-stage after a talk. The rules:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Ask them to repeat the question&lt;/strong&gt;. The easiest and simplest thing. Usually
+if you can&amp;rsquo;t hear the question, it&amp;rsquo;s almost certain the audience can&amp;rsquo;t, either
+(which is a good reason to repeat the question, too). Repeating the question
+doesn&amp;rsquo;t make you look like a douche: it makes you look like someone who cares
+enough to get it right or, heaven forbid, someone who just didn&amp;rsquo;t catch the
+question the first time around.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Have them ask you privately afterwards&lt;/strong&gt;. Still don&amp;rsquo;t have the foggiest idea
+of what&amp;rsquo;s going on? Just ask them to chat with you after. It lets you talk to
+them in more detail, and it&amp;rsquo;s perfectly fine not to bother the rest of the
+audience with more back-and-forth.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Dealing with fucking up&lt;/h2&gt;
+
+&lt;p&gt;Even after all the prep in the world, sometimes you fuck up. You say something
+you didn&amp;rsquo;t intend, or you&amp;rsquo;re just wrong about something. There&amp;rsquo;s always going to
+be someone in the audience who will try to correct you.&lt;/p&gt;
+
+&lt;p&gt;If what they&amp;rsquo;re saying sounds right, or you&amp;rsquo;re not sure what&amp;rsquo;s true and what&amp;rsquo;s
+false anymore, just cop up to it. &amp;ldquo;Whoa, I didn&amp;rsquo;t know that&amp;rdquo; is a big
+concession, and it makes you look like someone open to new ideas. It&amp;rsquo;s not bad
+to be a flip flopper. Sometimes you&amp;rsquo;re just going to be wrong.&lt;/p&gt;
+
+&lt;h2&gt;Dealing with questions that aren&amp;rsquo;t questions&lt;/h2&gt;
+
+&lt;p&gt;This almost always happens at least once at every conference I&amp;rsquo;ve been at. You
+know the type: the dude in the back who&amp;rsquo;s already 75 seconds into his &amp;ldquo;question&amp;rdquo;
+and yet you still haven&amp;rsquo;t heard anything remotely close to what could be
+considered a question in fact you&amp;rsquo;re pretty sure this smug jerkhole doesn&amp;rsquo;t have
+a question and you mostly just want to punch him in the ever-flapping mouth.&lt;/p&gt;
+
+&lt;p&gt;Snap out of it. You have a microphone. Use it. &lt;em&gt;Do you have an actual
+question?&lt;/em&gt;, when said properly, is probably the funniest thing for the rest of
+the audience to hear ever. You don&amp;rsquo;t have to be a jerk about it: just ask them
+if they&amp;rsquo;re going to get to the point. If you&amp;rsquo;re irritated, I guarantee the rest
+of the audience is a heartbeat away from mob justice themselves.&lt;/p&gt;
+
+&lt;p&gt;Just be nice and you&amp;rsquo;re going to be fine.&lt;/p&gt;
+
+&lt;h2&gt;Dealing with assholes&lt;/h2&gt;
+
+&lt;p&gt;You&amp;rsquo;re really not going to run into assholes very often. People worry about the
+rogue troll in the audience, but typically human beings are pretty timid,
+respectful creatures.&lt;/p&gt;
+
+&lt;p&gt;Every now and then, though, someone may challenge what you said in a rude
+manner. Again, remember that you have the mic, and more importantly, you are
+literally in a position of power: you&amp;rsquo;re up on stage, under the lights, in front
+of the room, whatever. Stay classy and you&amp;rsquo;re going to win the argument. You
+return the snideness back at them and you&amp;rsquo;ve lost the battle of public opinion.&lt;/p&gt;
+
+&lt;p&gt;When in doubt, defuse, concede some ground as a good-natured way of letting the
+jerk feel like they&amp;rsquo;ve won something, and move on to the next question. In a
+conference, organizers will likely help you with this, as they&amp;rsquo;ll want to avoid
+confrontation too.&lt;/p&gt;
+
+&lt;p&gt;You&amp;rsquo;re not trying to win over the asshole; who wants another asshole, anyway?
+You&amp;rsquo;re fighting to make everyone else in the room think to themselves &amp;ldquo;god I
+don&amp;rsquo;t even care about this anymore, fuck this weirdo HE STILL HASN&amp;rsquo;T EVEN ASKED
+A QUESTION YET&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Don&amp;rsquo;t pick a battle with someone who buys ink by the barrel, and don&amp;rsquo;t pick a
+battle with someone who&amp;rsquo;s up on stage and who has been talking for awhile. You
+have all the power, and you&amp;rsquo;ll win anyway.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Fucking up</title>
+   <link href="http://speaking.io/deliver/fucking-up"/>
+   <updated>2014-01-14T00:00:00-08:00</updated>
+   <id>http://speaking.io/deliver/fucking-up</id>
+   <content type="html">&lt;p&gt;At some point or another, the probability of fucking up in front of a lot of
+strangers you don&amp;rsquo;t know approaches one. It&amp;rsquo;s going to happen. You&amp;rsquo;re going to
+say something you didn&amp;rsquo;t mean. You&amp;rsquo;re going to blankly stare at your screen when
+you forget the argument that you&amp;rsquo;ve never, ever had problems remembering before.
+You&amp;rsquo;re going to accidentally horribly insult someone, and it was the last
+possible thing you meant to do. These things happen.&lt;/p&gt;
+
+&lt;h2&gt;People don&amp;rsquo;t care&lt;/h2&gt;
+
+&lt;p&gt;I&amp;rsquo;m sure you recognize this by now. Most people in life don&amp;rsquo;t care about you or
+what you have to say. This goes tenfold for a conference. Most attendees will be
+bored and will likely be on their laptop anyway. It&amp;rsquo;s a harsh world.&lt;/p&gt;
+
+&lt;p&gt;That&amp;rsquo;s cool. That&amp;rsquo;s the number one comfort you can usually rely on. Even if you
+find something you said to be glaringly horrifying, chances are &lt;em&gt;it&amp;rsquo;s not that
+big of a deal to them&lt;/em&gt;. Again, this is obvious, but it bears repeating: you&amp;rsquo;re
+probably going to be fine.&lt;/p&gt;
+
+&lt;p&gt;The best thing you can do is not draw attention to your gaffe and just move on.
+I&amp;rsquo;ve certainly found myself in the middle of stories that were irrelevant, too
+long, and boring as rocks. Sometimes it&amp;rsquo;s best to cut your losses and say &amp;ldquo;and
+wow, this story is stupid, boy am I sorry&amp;rdquo; and move on.&lt;/p&gt;
+
+&lt;h2&gt;Stay humble&lt;/h2&gt;
+
+&lt;p&gt;As with most things when you&amp;rsquo;re on stage, staying humble is a good quality to
+have. You&amp;rsquo;re pretty exposed, and if you mess up, well, just be honest. If
+something obvious happened that you can&amp;rsquo;t sweep under the rug easily, put your
+hat in your hand and say &amp;ldquo;wow, I did not mean to say that&amp;hellip; sorry!&amp;rdquo; or &amp;ldquo;crap,
+totally blew my train of thought- let&amp;rsquo;s circle back on that&amp;rdquo;.&lt;/p&gt;
+
+&lt;h2&gt;Have an out&lt;/h2&gt;
+
+&lt;p&gt;A good approach is to always have an out so you minimize the chance of mistakes.
+Practicing your talk over and over is great, but it&amp;rsquo;s also a good idea to be
+strategic, when you can. Usually I try to do a minute or two at the start of my
+talks and improv a small joke or tell a funny 30 second story, just to get
+people interested. If I&amp;rsquo;m really nervous about losing my place, that&amp;rsquo;s why I
+have presenter&amp;rsquo;s notes. Or notecards. Or even slides. There&amp;rsquo;s no reason you
+can&amp;rsquo;t use all these things to your advantage to make it less likely you&amp;rsquo;ll mess
+up.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Dimensions</title>
+   <link href="http://speaking.io/design/dimensions"/>
+   <updated>2014-01-14T00:00:00-08:00</updated>
+   <id>http://speaking.io/design/dimensions</id>
+   <content type="html">&lt;p&gt;It&amp;rsquo;s agonizing to try to come up with a joke about what dimensions your slides
+should be. Just agonizing.&lt;/p&gt;
+
+&lt;h2&gt;Projectors&lt;/h2&gt;
+
+&lt;p&gt;Your smartphone in your pocket has greater processing power than the computer
+that sent humans to the moon in 1969, but every single projector you will ever
+touch is basically just puking twelve pixels up on the wall and calling it a
+day. Projectors suck.&lt;/p&gt;
+
+&lt;p&gt;The vast majority of conferences and meeting rooms you will present in will have
+really low-fidelity projectors. Don&amp;rsquo;t bank on projecting on a fancy, bright,
+widescreen projector; you&amp;rsquo;re more than likely going to be disappointed.&lt;/p&gt;
+
+&lt;h2&gt;4:3 or widescreen?&lt;/h2&gt;
+
+&lt;p&gt;Should you present in widescreen or the more traditional 4:3 aspect ratio?&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve switched to writing all new slides as widescreen. It makes your slides look
+more cinematic, which I would argue feels more polished.&lt;/p&gt;
+
+&lt;p&gt;The major concern here is how those slides will work on an older projector.
+Keynote in particular does a great job at scaling your slides. I haven&amp;rsquo;t
+experienced a problem on any projector since I started this; 4:3 aspect ratio
+projectors simply show my slides with black bars on the top and bottom, which is
+reasonable and preserves the cinematic feel.&lt;/p&gt;
+
+&lt;h2&gt;Resolution&lt;/h2&gt;
+
+&lt;p&gt;I tend to opt for bigger slides: 1920x1080. That gives me full 1080p resolution,
+so if I ever &lt;em&gt;do&lt;/em&gt; end up presenting on a nice, modern projector, my slides will
+really pop. You can always scale down high-resolution slides, but it&amp;rsquo;s much
+harder to scale them up.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Color</title>
+   <link href="http://speaking.io/design/color"/>
+   <updated>2014-01-14T00:00:00-08:00</updated>
+   <id>http://speaking.io/design/color</id>
+   <content type="html">&lt;p&gt;If you wrap your hands around your neck long enough, your face is probably going
+to change color. If you keep them there too long, then your face is going to
+die.&lt;/p&gt;
+
+&lt;p&gt;Colors are important in slides, too.&lt;/p&gt;
+
+&lt;h2&gt;Identity&lt;/h2&gt;
+
+&lt;p&gt;Colors are all pretty to look at and junk, but they serve a real purpose: with
+smart usage of color, you can make it easier for your audience to follow you
+around as you jump from slide to slide.&lt;/p&gt;
+
+&lt;p&gt;Choosing a great color palette for your talk can help you visually break out
+different sections, underline recap areas, and overall make your presentation
+look, well, presentable.&lt;/p&gt;
+
+&lt;h2&gt;Finding colors&lt;/h2&gt;
+
+&lt;p&gt;If you&amp;rsquo;re like me (and for that I sincerely apologize), you probably haven&amp;rsquo;t the
+faintest idea of how to come up with colors that look great together. Don&amp;rsquo;t
+worry: you can cheat.&lt;/p&gt;
+
+&lt;p&gt;Head to a place like COLOURlovers and look at their &lt;a href=&quot;http://www.colourlovers.com/palettes&quot;&gt;color
+palettes&lt;/a&gt;. They have millions. Browse
+around and find something that tickles your fancy.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cl.ly/image/3P3o2D073j1s/content&quot; alt=&quot;This one looks nice&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Usually I look for bright colors that go well on projectors. That means colors
+with a lot of contrast. For example, choose a dark, a light, and an accent. That
+way you can layer the dark on the light and still read it from in the way back
+of the room you&amp;rsquo;re giving the talk.&lt;/p&gt;
+
+&lt;h2&gt;Importing colors&lt;/h2&gt;
+
+&lt;p&gt;Once you&amp;rsquo;ve found the colors you want, you&amp;rsquo;ll want to get them into your slide
+deck.&lt;/p&gt;
+
+&lt;p&gt;In Keynote, you can hold &lt;code&gt;⇧Shift + ⌘ + C&lt;/code&gt; to open up the Colors palette. Click
+the magnifying glass and you can suck your selected color into your slide deck.
+In the third tab of this panel, though, you can create a new palette. This is
+usually where I stash all of my colors for the talk so it&amp;rsquo;s readily at hand for
+later:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cl.ly/image/0W1u1B3b0o44/content&quot; alt=&quot;Color palette&quot; /&gt;&lt;/p&gt;
+
+&lt;h2&gt;Using colors&lt;/h2&gt;
+
+&lt;p&gt;Try to be conscious about how you use colors. I usually try to use them to break
+up different sections of my talk (see this post about
+&lt;a href=&quot;/plan/an-outline/&quot;&gt;Outlining&lt;/a&gt; for more about sections). In &lt;em&gt;&lt;a href=&quot;http://zachholman.com/talk/product-is-the-byproduct/&quot;&gt;The Product is the
+Byproduct&lt;/a&gt;&lt;/em&gt;, I used bright
+white slides to denote new sections:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cl.ly/image/2e3J0e413E1X/content&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is also great for &lt;em&gt;you&lt;/em&gt;, too. In this case, I get a nice clean white screen
+that&amp;rsquo;s visually different enough for me to realize &amp;ldquo;Okay. I hit a new section. I
+can take a sip of water, I can take a breath, I can let people catch up.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;Similarly, I&amp;rsquo;ll also usually offset the colors in the introduction and the
+closing. If you&amp;rsquo;re using bright orange the entire talk and you suddenly hit four
+white slides in a row, it starts to feel different, like the natural close of
+your talk. Use that to your advantage.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Outlining</title>
+   <link href="http://speaking.io/plan/an-outline"/>
+   <updated>2014-01-14T00:00:00-08:00</updated>
+   <id>http://speaking.io/plan/an-outline</id>
+   <content type="html">&lt;p&gt;Usually I&amp;rsquo;ll come up with a great idea, like &lt;em&gt;I think it&amp;rsquo;s important to reveal
+to the entire world that 2Pac is still alive and working at a San Francisco
+startup&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;So then I have this great talk idea, but then I&amp;rsquo;m stuck facing the music: how
+the hell do I flesh this into &lt;em&gt;an entire talk&lt;/em&gt;? There&amp;rsquo;s all these subtleties to
+cover, like should I talk about how &lt;em&gt;2 of Amerikaz Most Wanted&lt;/em&gt; was actually an
+allegory for his desire to work at a quiet Silicon Valley startup job for the
+rest of his life? Or maybe I should bring up his deeply suspect tattoo:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cl.ly/image/1i2E0h0N0m2k/content&quot; alt=&quot;Is Path a money laundering front for Tupac Shakur? Teach the controversy.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In either case, I almost always tackle a new talk by &lt;strong&gt;outlining first&lt;/strong&gt;. There
+are a million different ways to do this, so your mileage may vary, but this is
+what&amp;rsquo;s worked for me.&lt;/p&gt;
+
+&lt;h2&gt;Inside Outlining&lt;/h2&gt;
+
+&lt;p&gt;I do something I&amp;rsquo;d like to call &lt;em&gt;inside outlining&lt;/em&gt;, because it&amp;rsquo;s kind of a fun
+play on words and by inventing new terminology you can eventually ask for
+royalties.&lt;/p&gt;
+
+&lt;p&gt;Basically, write the &lt;em&gt;important things first&lt;/em&gt;. These should be your main
+sections that are meaty enough to dive into greater detail.&lt;/p&gt;
+
+&lt;p&gt;It depends on the talk, but I think generally most talks are best served if you
+can deliver them in three sections. It&amp;rsquo;s limiting, to be sure, but it creates a
+much more cohesive narrative if you can lay down your main argument with three
+distinct sections, each with supporting details. So, for this Pac talk, I&amp;rsquo;d
+start out with these five bullets:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Intro&lt;/li&gt;
+&lt;li&gt;Section one: 2Pac loves the Bay Area&lt;/li&gt;
+&lt;li&gt;Section two: Possible connections to the tech industry&lt;/li&gt;
+&lt;li&gt;Section three: He lives in my basement&lt;/li&gt;
+&lt;li&gt;Outro&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Really avoid trying to flesh out this outline past this point, even if you want
+to. It&amp;rsquo;s good to sit on this for a little bit before getting too deep down the
+rabbit hole. Let it sink in and get a feel for whether you&amp;rsquo;re happy with this
+main foundation of your talk. If you&amp;rsquo;re not, then change it. If you want to add
+or remove more main sections, go for it: there are no rules in the world.&lt;/p&gt;
+
+&lt;p&gt;Rule number two: start fleshing out the outline. This is where the &amp;ldquo;inside
+outlining&amp;rdquo; comes into play, for me. I never really finish each point one-by-one.
+I sort of add one or two supporting points to each main point. Something like
+this (ignoring the intro and outro):&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2Pac loves the Bay Area&lt;/li&gt;
+&lt;li&gt;Possible connections to the tech industry
+
+&lt;ul&gt;
+&lt;li&gt;Path tattoo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;He lives in my basement&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;&amp;hellip;then a couple more:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2Pac loves the Bay Area
+
+&lt;ul&gt;
+&lt;li&gt;Lived in Marin City for years&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Possible connections to the tech industry
+
+&lt;ul&gt;
+&lt;li&gt;Path tattoo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;He lives in my basement
+
+&lt;ul&gt;
+&lt;li&gt;No really, I have photos&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;As you get a better handle for the overall flow, you can start diving into more:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2Pac loves the Bay Area
+
+&lt;ul&gt;
+&lt;li&gt;Lived in Marin City for years&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Oaktown, Oakland definitely in the house&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Possible connections to the tech industry
+
+&lt;ul&gt;
+&lt;li&gt;Path tattoo&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;White Man&#39;z World&lt;/em&gt; (1996)
+
+&lt;ul&gt;
+&lt;li&gt;Clearly a metaphor for today&amp;rsquo;s tech industry&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;He lives in my basement
+
+&lt;ul&gt;
+&lt;li&gt;No really, I have photos&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;For me, I tend to keep these outlines very short and high-level. I usually don&amp;rsquo;t
+get much further than three tiers: top tier is the slide introduction to the
+section, the second bullet level is a slide and large point inside that section,
+and the third level of bullets tend to translate to multiple slides supporting
+the #2 level of points.&lt;/p&gt;
+
+&lt;p&gt;Interested in seeing this in practice? &lt;a href=&quot;https://gist.github.com/holman/80f254b91d2d414d447f&quot;&gt;Here is my raw
+outline&lt;/a&gt; for my &lt;em&gt;&lt;a href=&quot;http://zachholman.com/talk/how-github-no-longer-works/&quot;&gt;How
+GitHub (no longer)
+Works&lt;/a&gt;&lt;/em&gt; talk. Those
+twenty-some lines generated 141 slides. For me, I just use an outline as a point
+to channel my thoughts, &lt;em&gt;not&lt;/em&gt; as the verbatim bible of my talk.&lt;/p&gt;
+
+&lt;p&gt;Most of the time I only use about half of my outline in my actual talk&amp;hellip;
+sometimes it&amp;rsquo;s just a springboard. That&amp;rsquo;s what works for me. And that&amp;rsquo;s what&amp;rsquo;s
+important for you, too: getting your thoughts converted to slides is hard
+enough, so try a few things out and find out what works for you.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Idea</title>
+   <link href="http://speaking.io/plan/an-idea"/>
+   <updated>2014-01-14T00:00:00-08:00</updated>
+   <id>http://speaking.io/plan/an-idea</id>
+   <content type="html">&lt;p&gt;Sometimes it&amp;rsquo;s easy. You know that you&amp;rsquo;re the world&amp;rsquo;s foremost expert on the
+brands of toothbrushes that Sinéad O&#39;Connor used between 1988 and 1991. You know
+that you can create a talk about her toothcare that is so poignant that it will
+fundamentally make us rethink our station in life. You want to do this talk.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cl.ly/image/342n3r3y3B1X/content&quot; alt=&quot;sinead o&#39;teeth&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;What if it&amp;rsquo;s not that easy? What if you&amp;rsquo;re not some eclectic expert on
+something? You&amp;rsquo;re interested in giving a talk, but what should you talk about?
+It can be a little daunting.&lt;/p&gt;
+
+&lt;p&gt;First of all — and say this with me — most speakers are pretty stupid. Really!
+They&amp;rsquo;re no more special than you or me. They just have the advantage in two
+areas:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;They&amp;rsquo;ve done this particular something a lot&lt;/li&gt;
+&lt;li&gt;They want to talk about it&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;That&amp;rsquo;s it. And that can be you.&lt;/p&gt;
+
+&lt;h2&gt;Keep the focus small&lt;/h2&gt;
+
+&lt;p&gt;The best part is that you &lt;em&gt;can&lt;/em&gt; be an expert in most things. You don&amp;rsquo;t have to
+give a talk that encompasses the entirety of the human condition: instead, focus
+on something really, really, really small and start learning everything you can
+about it. Your talk doesn&amp;rsquo;t have to recap everything you&amp;rsquo;ve ever learned in your
+life; you can spend a few weeks looking at a small aspect of something that
+interests you and talk about that.&lt;/p&gt;
+
+&lt;p&gt;What&amp;rsquo;s more, &lt;em&gt;you don&amp;rsquo;t actually have to be an expert&lt;/em&gt;. I&amp;rsquo;ve sat through
+hundreds of talks from &amp;ldquo;experts&amp;rdquo; that were boring and terrible to live through.
+I&amp;rsquo;ve also listened to beginners talk about subject matter that I knew very well,
+but it was &lt;em&gt;still interesting&lt;/em&gt; to me because it made me rethink with fresh eyes
+something that I had thought I had known all about. That&amp;rsquo;s really what it&amp;rsquo;s all
+about: making your audience reconsider their own perspectives. You don&amp;rsquo;t have to
+be smarter than them or even be more correct than them to do that.&lt;/p&gt;
+
+&lt;h2&gt;What tickles your fancy&lt;/h2&gt;
+
+&lt;p&gt;Try to avoid starting with something you know nothing about. It&amp;rsquo;ll bite you.
+Instead, as you might expect, start with something that fascinates you. It
+serves as a good foundation for future learning on the subject (and you most
+certainly will learn as you build your talk: when it&amp;rsquo;s your ass on stage, you
+find yourself working hard to avoid potential embarassment if you can avoid it).&lt;/p&gt;
+
+&lt;p&gt;Make sure to have a little bit extra, too. You don&amp;rsquo;t want to be stretching your
+time while you&amp;rsquo;re up on stage, because with nerves and fast talking you&amp;rsquo;ll
+probably end up under time anyway. You want to find a subject to talk about that
+is a little meaty, so that even if you can&amp;rsquo;t cover quite everything in your
+talk, you can go over it in more detail in &lt;a href=&quot;/react/handling-questions/&quot;&gt;Q&amp;amp;A&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

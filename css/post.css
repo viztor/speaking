@@ -1,0 +1,205 @@
+/* line 1, /Users/holman/Code/speaking.io/css/post.scss */
+.mini-header {
+  background-color: #01EFFF;
+  color: #007881;
+  padding: 20px;
+  border-bottom: 5px solid #fff;
+  font-size: 14px;
+  text-align: center;
+}
+/* line 9, /Users/holman/Code/speaking.io/css/post.scss */
+.mini-header a {
+  color: #007881;
+}
+/* line 13, /Users/holman/Code/speaking.io/css/post.scss */
+.mini-header h1 {
+  font-family: 'Montserrat', sans-serif;
+  display: inline;
+  vertical-align: middle;
+  margin-right: 15px;
+}
+/* line 20, /Users/holman/Code/speaking.io/css/post.scss */
+.mini-header p {
+  font-weight: 100;
+  vertical-align: middle;
+  font-style: italic;
+  display: inline;
+  color: #fff;
+  background-color: #007881;
+  padding: 5px 10px;
+}
+
+/* line 32, /Users/holman/Code/speaking.io/css/post.scss */
+ul.sidebar li {
+  font-weight: 700;
+  font-size: 14px;
+  margin: 0 0 20px 0;
+}
+/* line 37, /Users/holman/Code/speaking.io/css/post.scss */
+ul.sidebar li.background {
+  font-size: 12px;
+  font-weight: 400;
+  padding: 5px 15px;
+  margin-bottom: 35px;
+  background-color: #fff;
+}
+/* line 44, /Users/holman/Code/speaking.io/css/post.scss */
+ul.sidebar li.background a {
+  font-weight: bold;
+}
+/* line 45, /Users/holman/Code/speaking.io/css/post.scss */
+ul.sidebar li.background a:hover {
+  color: #01efff;
+}
+/* line 47, /Users/holman/Code/speaking.io/css/post.scss */
+ul.sidebar li.background .ss-chats {
+  font-size: 20px;
+}
+/* line 48, /Users/holman/Code/speaking.io/css/post.scss */
+ul.sidebar li.background .icons {
+  margin-bottom: 0;
+  color: rgba(0, 0, 0, 0.2);
+}
+/* line 51, /Users/holman/Code/speaking.io/css/post.scss */
+ul.sidebar li ul {
+  margin-top: 5px;
+  padding-left: 0;
+}
+/* line 55, /Users/holman/Code/speaking.io/css/post.scss */
+ul.sidebar li ul li {
+  display: block;
+  width: 200px;
+  font-size: 12px;
+  margin-bottom: 5px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-weight: 100;
+  padding: 1px;
+  color: #fff;
+}
+/* line 67, /Users/holman/Code/speaking.io/css/post.scss */
+ul.sidebar li ul li a {
+  padding: 2px 5px;
+}
+/* line 70, /Users/holman/Code/speaking.io/css/post.scss */
+ul.sidebar li ul li a:hover {
+  background-color: #d9d9d9;
+}
+/* line 77, /Users/holman/Code/speaking.io/css/post.scss */
+ul.sidebar .current {
+  background-color: #000;
+  color: #fff;
+  font-weight: bold;
+}
+/* line 82, /Users/holman/Code/speaking.io/css/post.scss */
+ul.sidebar .current:hover {
+  background-color: #000;
+}
+
+/* line 86, /Users/holman/Code/speaking.io/css/post.scss */
+.content {
+  margin: 35px 0 100px 225px;
+  color: #333;
+  line-height: 1.6;
+  font-size: 18px;
+  min-height: 500px;
+}
+/* line 93, /Users/holman/Code/speaking.io/css/post.scss */
+.content a {
+  color: #404040;
+  text-decoration: underline;
+}
+/* line 98, /Users/holman/Code/speaking.io/css/post.scss */
+.content a:hover {
+  color: #000;
+  text-decoration: none;
+}
+/* line 103, /Users/holman/Code/speaking.io/css/post.scss */
+.content h1, .content h2, .content h3 {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #000;
+  display: inline-block;
+  padding: 3px 10px;
+}
+/* line 110, /Users/holman/Code/speaking.io/css/post.scss */
+.content h1 {
+  font-size: 28px;
+}
+/* line 113, /Users/holman/Code/speaking.io/css/post.scss */
+.content h1 a {
+  color: #fff;
+  text-decoration: none;
+}
+/* line 118, /Users/holman/Code/speaking.io/css/post.scss */
+.content h1 a:hover {
+  color: #fff;
+}
+/* line 123, /Users/holman/Code/speaking.io/css/post.scss */
+.content h2 {
+  margin-top: 30px;
+  font-size: 18px;
+  color: #fff;
+}
+/* line 123, /Users/holman/Code/speaking.io/css/post.scss */
+.content h3 {
+  font-size: 14px;
+  color: #fff;
+}
+/* line 129, /Users/holman/Code/speaking.io/css/post.scss */
+.content p {
+  line-height: 30px;
+  margin-bottom: 30px;
+}
+/* line 134, /Users/holman/Code/speaking.io/css/post.scss */
+.content img {
+  max-width: 100%;
+  border: 10px solid #d9d9d9;
+  margin-left: -10px;
+}
+/* line 140, /Users/holman/Code/speaking.io/css/post.scss */
+.content ul {
+  margin-left: 10px;
+  padding-left: 25px;
+  margin-bottom: 10px;
+}
+/* line 146, /Users/holman/Code/speaking.io/css/post.scss */
+.content ul ul {
+  padding-left: 10px;
+}
+/* line 150, /Users/holman/Code/speaking.io/css/post.scss */
+.content li {
+  list-style-type: disc;
+  font-size: 14px;
+}
+
+#ham-menu {
+  display: none;
+  position: absolute;
+  right: 15px;
+  top: 10px;
+}
+#ham-menu img {
+  width: 30px;
+}
+
+@media (max-width: 800px) {
+  .sidebar {
+    position: fixed;
+    top: 0;
+    right: -200px;
+  }
+  .content {
+    margin: 35px 20px 100px 20px;
+  }
+  .mini-header p {
+    display: none;
+  }
+  #ham-menu {
+    display: block;
+  }
+  .active {
+    -webkit-transform: translateX(-200px);
+  }
+}
+

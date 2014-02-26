@@ -1,0 +1,439 @@
+/* line 1, /Users/holman/Code/speaking.io/css/base.scss */
+body {
+  margin: 0;
+  background-color: #eee;
+  font-family: 'Open Sans', sans-serif;
+  -webkit-transition: all 0.5s ease-in-out;
+}
+
+/* line 7, /Users/holman/Code/speaking.io/css/base.scss */
+h1, h2, ul {
+  margin: 0;
+}
+
+/* line 11, /Users/holman/Code/speaking.io/css/base.scss */
+a {
+  text-decoration: none;
+  transition: color 0.15s ease-in;
+  -webkit-transition: color 0.15s ease-in;
+  font-weight: bold;
+}
+
+/* line 18, /Users/holman/Code/speaking.io/css/base.scss */
+.wrapper {
+  max-width: 800px;
+  margin: 0 auto;
+  -webkit-transition: all 0.5s ease-in-out;
+}
+
+/* line 23, /Users/holman/Code/speaking.io/css/base.scss */
+.sidebar {
+  width: 200px;
+  float: left;
+  padding: 0;
+  font-size: 13px;
+  font-family: 'Open Sans', sans-serif;
+  -webkit-transition: all 0.5s ease-in-out;
+}
+/* line 30, /Users/holman/Code/speaking.io/css/base.scss */
+.sidebar a {
+  font-weight: 400;
+  color: #000;
+}
+/* line 35, /Users/holman/Code/speaking.io/css/base.scss */
+.sidebar li {
+  margin: 10px 0;
+  list-style-type: none;
+}
+
+/* line 41, /Users/holman/Code/speaking.io/css/base.scss */
+.header {
+  background-color: #01EFFF;
+  text-align: center;
+  font-style: italic;
+  color: #007881;
+  padding: 7em;
+  -webkit-transition: all 0.5s ease-in-out;
+}
+/* line 48, /Users/holman/Code/speaking.io/css/base.scss */
+.header h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-style: normal;
+  font-size: 3.75em;
+}
+/* line 53, /Users/holman/Code/speaking.io/css/base.scss */
+.header h1 a {
+  color: #007881;
+}
+/* line 56, /Users/holman/Code/speaking.io/css/base.scss */
+.header .tagline {
+  font-size: 20px;
+  font-weight: 100;
+  color: #fff;
+  background-color: #007881;
+  padding: 5px 15px;
+}
+/* line 63, /Users/holman/Code/speaking.io/css/base.scss */
+.header .tagline em {
+  color: #fff;
+}
+/* line 68, /Users/holman/Code/speaking.io/css/base.scss */
+.header .byline {
+  margin-top: 30px;
+  font-style: normal;
+  text-transform: uppercase;
+  font-weight: 100;
+  letter-spacing: 1px;
+  font-size: 12px;
+  -webkit-transition: all 0.5s ease-in-out;
+}
+/* line 76, /Users/holman/Code/speaking.io/css/base.scss */
+.header .byline a {
+  color: #007881;
+}
+/* line 77, /Users/holman/Code/speaking.io/css/base.scss */
+.header .byline a:hover {
+  color: #fff;
+}
+
+/* line 81, /Users/holman/Code/speaking.io/css/base.scss */
+.icons {
+  margin: 10px 0 20px 0;
+  text-align: center;
+}
+/* line 85, /Users/holman/Code/speaking.io/css/base.scss */
+.icons .ss-record {
+  font-size: 10px;
+}
+/* line 88, /Users/holman/Code/speaking.io/css/base.scss */
+.icons .ss-chats {
+  font-size: 30px;
+  vertical-align: middle;
+  margin: 0 5px;
+}
+
+/* line 95, /Users/holman/Code/speaking.io/css/base.scss */
+.about {
+  background-color: #eee;
+  border-top: 5px solid #fff;
+  padding: 75px 25px 25px 25px;
+  text-align: center;
+}
+/* line 101, /Users/holman/Code/speaking.io/css/base.scss */
+.about h2 {
+  color: #fff;
+  background-color: #000;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  font-size: 30px;
+  display: inline;
+  padding: 5px 10px;
+}
+/* line 111, /Users/holman/Code/speaking.io/css/base.scss */
+.about ul {
+  margin: 50px 0;
+  padding: 0;
+  list-style-type: none;
+}
+/* line 117, /Users/holman/Code/speaking.io/css/base.scss */
+.about li {
+  width: 235px;
+  float: left;
+  padding: 15px;
+  font-size: 14px;
+  text-align: left;
+  color: #000;
+}
+/* line 126, /Users/holman/Code/speaking.io/css/base.scss */
+.about a {
+  color: #000;
+}
+/* line 130, /Users/holman/Code/speaking.io/css/base.scss */
+.about a:hover {
+  color: #007881;
+}
+/* line 134, /Users/holman/Code/speaking.io/css/base.scss */
+.about .title {
+  display: block;
+  font-weight: 600;
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+/* line 144, /Users/holman/Code/speaking.io/css/base.scss */
+.about .links {
+  font-size: 14px;
+  font-weight: bold;
+  padding-top: 50px;
+  padding-bottom: 20px;
+  clear: both;
+}
+/* line 151, /Users/holman/Code/speaking.io/css/base.scss */
+.about .links a {
+  background-color: #01EFFF;
+  color: #006167;
+  padding: 10px 10px;
+  margin: 0 5px;
+}
+/* line 157, /Users/holman/Code/speaking.io/css/base.scss */
+.about .links a:hover {
+  background-color: #67f5ff;
+}
+/* line 162, /Users/holman/Code/speaking.io/css/base.scss */
+.about .links .ss-twitter, .about .links .ss-rss {
+  vertical-align: middle;
+  font-size: 24px;
+}
+
+/* line 169, /Users/holman/Code/speaking.io/css/base.scss */
+.congrats {
+  padding: 50px;
+  font-size: 13px;
+}
+
+/* line 174, /Users/holman/Code/speaking.io/css/base.scss */
+.color-block {
+  border-top: 5px solid #fff;
+  padding: 75px 25px;
+  text-align: center;
+  background-size: cover;
+}
+/* line 180, /Users/holman/Code/speaking.io/css/base.scss */
+.color-block h2 {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  font-size: 30px;
+  color: #fff;
+  display: inline;
+  padding: 5px 10px;
+}
+/* line 189, /Users/holman/Code/speaking.io/css/base.scss */
+.color-block p {
+  font-size: 20px;
+  line-height: 1.75;
+}
+/* line 194, /Users/holman/Code/speaking.io/css/base.scss */
+.color-block ul {
+  margin: 50px 0;
+  padding: 0;
+  list-style-type: none;
+}
+/* line 200, /Users/holman/Code/speaking.io/css/base.scss */
+.color-block a:hover {
+  color: #01efff;
+}
+/* line 204, /Users/holman/Code/speaking.io/css/base.scss */
+.color-block li {
+  clear: left;
+  display: inline;
+  float: left;
+  text-align: left;
+  padding: 10px;
+  margin: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+/* line 213, /Users/holman/Code/speaking.io/css/base.scss */
+.color-block li .title {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+  font-weight: 800;
+  text-align: center;
+  margin-right: 10px;
+}
+/* line 221, /Users/holman/Code/speaking.io/css/base.scss */
+.color-block li .excerpt {
+  padding-top: 5px;
+  font-size: 14px;
+  line-height: 1.5;
+  font-weight: 400;
+  margin-right: 10px;
+}
+/* line 230, /Users/holman/Code/speaking.io/css/base.scss */
+.color-block:after {
+  content: ".";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+
+/* line 240, /Users/holman/Code/speaking.io/css/base.scss */
+.design h2, .perform h2, .tease h2, .newest h2 {
+  color: #000;
+  background-color: #fff;
+}
+/* line 245, /Users/holman/Code/speaking.io/css/base.scss */
+.design a, .perform a, .tease a, .newest a {
+  color: #000;
+}
+/* line 249, /Users/holman/Code/speaking.io/css/base.scss */
+.design li, .perform li, .tease li, .newest li {
+  background-color: #fff;
+}
+/* line 253, /Users/holman/Code/speaking.io/css/base.scss */
+.design .date, .perform .date, .tease .date, .newest .date {
+  font-size: 12px;
+  font-weight: 400px;
+  color: #ccc;
+}
+
+/* line 261, /Users/holman/Code/speaking.io/css/base.scss */
+.newest li {
+  box-shadow: none;
+}
+
+/* line 265, /Users/holman/Code/speaking.io/css/base.scss */
+.plan h2, .prep h2, .react h2 {
+  background-color: #000;
+  color: #fff;
+}
+/* line 270, /Users/holman/Code/speaking.io/css/base.scss */
+.plan a, .prep a, .react a {
+  color: #fff;
+}
+/* line 274, /Users/holman/Code/speaking.io/css/base.scss */
+.plan li, .prep li, .react li {
+  background-color: #000;
+}
+
+/* line 279, /Users/holman/Code/speaking.io/css/base.scss */
+.plan {
+  background-image: url("../images/topics/plan.jpg");
+}
+
+/* line 280, /Users/holman/Code/speaking.io/css/base.scss */
+.design {
+  background-image: url("../images/topics/design.jpg");
+}
+
+/* line 281, /Users/holman/Code/speaking.io/css/base.scss */
+.prep {
+  background-image: url("../images/topics/prep.jpg");
+}
+
+/* line 282, /Users/holman/Code/speaking.io/css/base.scss */
+.perform {
+  background-image: url("../images/topics/perform.jpg");
+}
+
+/* line 283, /Users/holman/Code/speaking.io/css/base.scss */
+.react {
+  background-image: url("../images/topics/react.jpg");
+}
+
+/* line 285, /Users/holman/Code/speaking.io/css/base.scss */
+.tease {
+  background-color: #222;
+  color: #fff;
+}
+/* line 289, /Users/holman/Code/speaking.io/css/base.scss */
+.tease h2 {
+  background-color: #fff;
+  color: #000;
+}
+/* line 294, /Users/holman/Code/speaking.io/css/base.scss */
+.tease p {
+  margin: 40px 0;
+}
+
+/* line 299, /Users/holman/Code/speaking.io/css/base.scss */
+.footer {
+  clear: both;
+  font-family: 'Montserrat', sans-serif;
+  border-top: 5px solid #fff;
+  background-color: #222;
+  color: #007881;
+  padding: 25px 0 20px 0;
+  text-align: center;
+  vertical-align: middle;
+}
+/* line 309, /Users/holman/Code/speaking.io/css/base.scss */
+.footer .ss-chats {
+  font-size: 25px;
+  vertical-align: middle;
+  margin: 0 10px;
+}
+/* line 315, /Users/holman/Code/speaking.io/css/base.scss */
+.footer a {
+  vertical-align: middle;
+  color: #fff;
+}
+/* line 320, /Users/holman/Code/speaking.io/css/base.scss */
+.footer a:hover {
+  color: #01efff;
+}
+/* line 324, /Users/holman/Code/speaking.io/css/base.scss */
+.footer a:last-child {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 100;
+  font-size: 12px;
+  padding-right: 25px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+@media (max-width: 860px) {
+  .about li {
+    width: 100%;
+  }
+}
+
+@media (max-width: 800px) {
+  .header {
+    padding: 4em;
+  }
+}
+
+@media (max-width: 700px) {
+  .header {
+    padding: 2em;
+  }
+  .header h1 {
+    font-size: 3em;
+  }
+  .header .tagline {
+    position: absolute;
+    left: 0;
+    width: 96%;
+    font-size: 15px;
+  }
+  .header .byline {
+    margin-top: 70px;
+    font-size: 11px;
+  }
+  .about h2 {
+    font-size: 29px;
+  }
+  .color-block {
+    padding: 40px 25px;
+  }
+  .color-block h2 {
+    font-size: 1.5em;
+  }
+  .color-block p {
+    line-height: 1.5;
+    font-size: 1em;
+  }
+  section.color-block.plan, section.color-block.design, section.color-block.prep, section.color-block.perform, section.color-block.react {
+    padding-left: 0px;
+  }
+  .plan li, .design li, .prep li, .perform li, .react li {
+    margin-left: 0px;
+    padding-right: 16px;
+    width: 100%;
+  }
+  section.color-block.plan h2 {
+    margin-left: 16px;
+  } 
+  section.color-block.design h2 {
+    margin-left: 19px;
+    padding: 5px 5px;
+  }
+}
+
+@media (max-width: 500px) {
+  .about .links {
+    width: 119%;
+    margin-left: -33px;
+
+  }
+}
