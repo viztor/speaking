@@ -393,8 +393,8 @@ a {
   .header .tagline {
     position: absolute;
     left: 0;
-    width: 96%;
-    font-size: 15px;
+    width: 92.4%;
+    font-size: 14px;
   }
   .header .byline {
     margin-top: 70px;
@@ -432,8 +432,7 @@ a {
 
 @media (max-width: 500px) {
   .about .links {
-    width: 119%;
-    margin-left: -33px;
-
+    width: 100%;
+    display: flex;
   }
 }
